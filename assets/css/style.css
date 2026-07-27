@@ -1,0 +1,471 @@
+/* =========================================================================
+   [PROJECT] workshop site
+   Palette: wetland at dawn. Deep green-black ink, cool reed paper,
+   still-water teal, sage, and a single flamingo accent reserved for
+   deadlines and unmissable times. Nothing else may use flamingo.
+   ========================================================================= */
+
+:root {
+  --ink:      #12312e;   /* text, headings                       */
+  --ink-soft: #3d5b56;   /* secondary text                       */
+  --paper:    #f2f4ef;   /* page ground — cool reed paper        */
+  --water:    #2c6e6a;   /* links, rules, structure              */
+  --reed:     #8fa394;   /* borders, captions                    */
+  --sand:     #e6e3d8;   /* fills, code, table stripes           */
+  --flamingo: #c9536c;   /* DEADLINES AND FIXED TIMES ONLY       */
+
+  --display: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --body:    "Newsreader", Georgia, "Times New Roman", serif;
+  --mono:    "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+
+  --measure: 34rem;
+  --gutter:  5.75rem;    /* width of the timetable time column   */
+  --rule:    1px solid color-mix(in srgb, var(--reed) 55%, transparent);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  font-optical-sizing: auto;
+  text-rendering: optimizeLegibility;
+}
+
+/* ---------------------------------------------------------------- skip -- */
+.skip {
+  position: absolute; left: -9999px;
+  background: var(--ink); color: var(--paper);
+  padding: .6rem 1rem; z-index: 50;
+  font-family: var(--mono); font-size: .8rem;
+}
+.skip:focus { left: 1rem; top: 1rem; }
+
+/* -------------------------------------------------------------- shell --- */
+.shell {
+  display: grid;
+  grid-template-columns: 17rem minmax(0, 1fr);
+  gap: 0;
+  max-width: 78rem;
+  margin: 0 auto;
+}
+
+.sidebar {
+  border-right: var(--rule);
+  padding: 2.5rem 2rem 3rem 1.75rem;
+}
+
+@media (min-width: 61rem) {
+  .sidebar { position: sticky; top: 0; height: 100vh; overflow-y: auto; }
+}
+
+.main {
+  padding: 3.25rem 3rem 4rem;
+  min-width: 0;
+  animation: rise .5s cubic-bezier(.2, .7, .3, 1) both;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* ----------------------------------------------------------------- nav -- */
+.nav__brand { display: block; text-decoration: none; margin-bottom: 2rem; }
+
+.nav__brand-title {
+  display: block;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.2rem;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+}
+
+.nav__brand-sub {
+  display: block;
+  margin-top: .5rem;
+  font-family: var(--mono);
+  font-size: .68rem;
+  line-height: 1.5;
+  letter-spacing: .01em;
+  color: var(--ink-soft);
+}
+
+.nav__list { list-style: none; margin: 0; padding: 0; }
+
+.nav__list li { border-top: var(--rule); }
+.nav__list li:last-child { border-bottom: var(--rule); }
+
+.nav__list a {
+  display: block;
+  padding: .68rem 0 .68rem .9rem;
+  font-family: var(--display);
+  font-weight: 500;
+  font-size: .95rem;
+  color: var(--ink-soft);
+  text-decoration: none;
+  border-left: 2px solid transparent;
+  transition: color .15s, border-color .15s, background-color .15s;
+}
+
+.nav__list a:hover {
+  color: var(--ink);
+  background: color-mix(in srgb, var(--sand) 45%, transparent);
+}
+
+.nav__list a[aria-current="page"] {
+  color: var(--ink);
+  border-left-color: var(--water);
+  font-weight: 700;
+}
+
+.nav__foot {
+  margin-top: 1.75rem;
+  font-family: var(--mono);
+  font-size: .7rem;
+  line-height: 1.6;
+  color: var(--ink-soft);
+}
+
+/* -------------------------------------------------------------- prose --- */
+.prose { max-width: 44rem; }
+
+.eyebrow {
+  font-family: var(--mono);
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--water);
+  margin: 0 0 .9rem;
+}
+
+.prose h1 {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: clamp(2rem, 1.4rem + 2.4vw, 3.1rem);
+  line-height: 1.02;
+  letter-spacing: -0.028em;
+  margin: 0 0 1rem;
+  text-wrap: balance;
+}
+
+.standfirst {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  max-width: var(--measure);
+  margin: 0 0 2.5rem;
+}
+
+.prose h2 {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: -0.018em;
+  line-height: 1.15;
+  margin: 3.25rem 0 1rem;
+  padding-top: 1.1rem;
+  border-top: 2px solid var(--ink);
+}
+
+.prose h3 {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: -0.01em;
+  margin: 2.25rem 0 .6rem;
+}
+
+.prose h4 {
+  font-family: var(--display);
+  font-weight: 500;
+  font-size: 1rem;
+  margin: 0 0 .3rem;
+}
+
+.prose p, .prose li { max-width: var(--measure); }
+.prose p { margin: 0 0 1.1rem; }
+.prose ul, .prose ol { padding-left: 1.15rem; margin: 0 0 1.3rem; }
+.prose li { margin-bottom: .5rem; }
+.prose li::marker { color: var(--reed); }
+
+.prose a { color: var(--water); text-decoration-thickness: 1px; text-underline-offset: .18em; }
+.prose a:hover { color: var(--flamingo); }
+
+.prose strong { font-weight: 600; }
+
+.prose hr { border: 0; border-top: var(--rule); margin: 2.75rem 0; }
+
+.prose blockquote {
+  margin: 1.75rem 0;
+  padding: .1rem 0 .1rem 1.25rem;
+  border-left: 2px solid var(--reed);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+/* ------------------------------------------------ SIGNATURE: timetable -- */
+.tt { position: relative; margin: 1.75rem 0 2.5rem; max-width: 44rem; }
+
+/* the continuous hairline the whole day hangs from */
+.tt::before {
+  content: "";
+  position: absolute;
+  left: var(--gutter);
+  top: .55rem;
+  bottom: .55rem;
+  width: 1px;
+  background: var(--reed);
+}
+
+.tt-row {
+  display: grid;
+  grid-template-columns: var(--gutter) 1fr;
+  padding: .8rem 0;
+  align-items: start;
+}
+.tt-row + .tt-row { border-top: var(--rule); }
+
+.tt-time {
+  font-family: var(--mono);
+  font-size: .82rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--ink-soft);
+  padding-top: .12rem;
+  padding-right: 1rem;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.tt-body { padding-left: 1.35rem; }
+.tt-body p { margin: .2rem 0 0; font-size: .95rem; color: var(--ink-soft); }
+.tt-body p:only-child { margin-top: 0; }
+
+/* fixed, unmissable moments: coach departures, hard cut-offs */
+.tt-row.is-fixed .tt-time { color: var(--flamingo); }
+.tt-row.is-fixed .tt-body h4 { color: var(--flamingo); }
+.tt-row.is-fixed::before {
+  content: "";
+  position: absolute;
+  left: calc(var(--gutter) - 3px);
+  width: 7px; height: 7px;
+  margin-top: .38rem;
+  border-radius: 50%;
+  background: var(--flamingo);
+}
+.tt-row.is-fixed { position: relative; }
+
+/* quieter rows: meals, breaks, free time */
+.tt-row.is-soft .tt-body h4 { font-weight: 400; color: var(--ink-soft); }
+
+.tt-day {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: -0.018em;
+  margin: 3.25rem 0 .35rem;
+  padding-top: 1.1rem;
+  border-top: 2px solid var(--ink);
+}
+.tt-theme {
+  font-family: var(--mono);
+  font-size: .72rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--water);
+  margin: 0 0 .4rem;
+}
+
+/* ----------------------------------------------------- deadline chips --- */
+.chip {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+  padding: .18rem .5rem;
+  border: 1px solid var(--flamingo);
+  color: var(--flamingo);
+  border-radius: 2px;
+  white-space: nowrap;
+}
+.chip--quiet { border-color: var(--reed); color: var(--ink-soft); }
+
+/* --------------------------------------------------------- requirement -- */
+.req { counter-reset: req; margin: 2rem 0 2.5rem; }
+
+.req-item {
+  counter-increment: req;
+  display: grid;
+  grid-template-columns: 2.75rem 1fr;
+  gap: 0 .35rem;
+  padding: 1.4rem 0;
+  border-top: var(--rule);
+}
+.req-item:last-child { border-bottom: var(--rule); }
+
+.req-item::before {
+  content: counter(req, decimal-leading-zero);
+  font-family: var(--mono);
+  font-size: .78rem;
+  font-weight: 600;
+  color: var(--water);
+  padding-top: .3rem;
+}
+
+.req-item h3 { margin: 0 0 .35rem; }
+.req-item p  { margin: 0 0 .5rem; }
+.req-item > div > :last-child { margin-bottom: 0; }
+
+/* ------------------------------------------------------------- tables --- */
+.prose table {
+  width: 100%;
+  max-width: 44rem;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2rem;
+  font-size: .93rem;
+}
+
+.prose th {
+  text-align: left;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: .78rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--water);
+  padding: 0 1rem .55rem 0;
+  border-bottom: 2px solid var(--ink);
+  vertical-align: bottom;
+}
+
+.prose td {
+  padding: .7rem 1rem .7rem 0;
+  border-bottom: var(--rule);
+  vertical-align: top;
+}
+
+.prose td:last-child, .prose th:last-child { padding-right: 0; }
+
+/* --------------------------------------------------------------- code --- */
+.prose code {
+  font-family: var(--mono);
+  font-size: .85em;
+  background: var(--sand);
+  padding: .12em .35em;
+  border-radius: 2px;
+}
+
+.prose pre {
+  background: var(--ink);
+  color: #dbe6e2;
+  padding: 1.1rem 1.25rem;
+  border-radius: 3px;
+  overflow-x: auto;
+  font-size: .82rem;
+  line-height: 1.65;
+  margin: 1.25rem 0 1.75rem;
+  max-width: 44rem;
+}
+.prose pre code { background: none; padding: 0; color: inherit; font-size: 1em; }
+
+/* -------------------------------------------------------------- notes --- */
+.note {
+  border-left: 2px solid var(--water);
+  background: color-mix(in srgb, var(--sand) 40%, transparent);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0 2rem;
+  max-width: 44rem;
+  font-size: .95rem;
+}
+.note > :last-child { margin-bottom: 0; }
+.note--warn { border-left-color: var(--flamingo); }
+.note__label {
+  display: block;
+  font-family: var(--mono);
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--water);
+  margin-bottom: .4rem;
+}
+.note--warn .note__label { color: var(--flamingo); }
+
+/* ------------------------------------------------------------ checklist - */
+.check { list-style: none; padding: 0; margin: 1.5rem 0 2rem; }
+.check li {
+  padding: .65rem 0 .65rem 2rem;
+  border-bottom: var(--rule);
+  position: relative;
+  max-width: 44rem;
+}
+.check li:first-child { border-top: var(--rule); }
+.check li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: .95rem;
+  width: .8rem; height: .8rem;
+  border: 1px solid var(--reed);
+  border-radius: 2px;
+}
+
+/* --------------------------------------------------------------- foot --- */
+.foot {
+  margin-top: 4.5rem;
+  padding-top: 1.25rem;
+  border-top: var(--rule);
+  font-family: var(--mono);
+  font-size: .7rem;
+  line-height: 1.7;
+  color: var(--ink-soft);
+  max-width: 44rem;
+}
+.foot p { margin: 0; }
+.foot a { color: var(--water); }
+
+/* --------------------------------------------------------------- a11y --- */
+:focus-visible {
+  outline: 2px solid var(--flamingo);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .001ms !important;
+    transition-duration: .001ms !important;
+  }
+}
+
+/* ------------------------------------------------------------- mobile --- */
+@media (max-width: 61rem) {
+  .shell { grid-template-columns: 1fr; }
+  .sidebar { border-right: 0; border-bottom: var(--rule); padding: 1.75rem 1.5rem 1.25rem; }
+  .main { padding: 2rem 1.5rem 3rem; }
+  .nav__list { display: flex; flex-wrap: wrap; gap: 0 .35rem; }
+  .nav__list li { border: 0; }
+  .nav__list li:last-child { border: 0; }
+  .nav__list a {
+    padding: .35rem .6rem;
+    border: 1px solid var(--reed);
+    border-radius: 2px;
+    font-size: .82rem;
+  }
+  .nav__list a[aria-current="page"] {
+    background: var(--ink); color: var(--paper); border-color: var(--ink);
+  }
+  :root { --gutter: 4.25rem; }
+  .tt-time { font-size: .76rem; padding-right: .6rem; }
+  .tt-body { padding-left: .95rem; }
+  .prose table { font-size: .86rem; }
+}

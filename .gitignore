@@ -1,0 +1,11 @@
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+Gemfile.lock
+.DS_Store
+
+# local preview only, never commit
+preview/
+forms/PREDICT_Post_workshop_feedback_kobo_xlsform.xlsx
+/forms

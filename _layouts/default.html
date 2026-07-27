@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>{% include head.html %}</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="shell">
+    <header class="sidebar">{% include nav.html %}</header>
+    <main class="main" id="main">
+      <article class="prose">
+        {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+        {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+        {% if page.standfirst %}<p class="standfirst">{{ page.standfirst }}</p>{% endif %}
+        {{ content }}
+      </article>
+      <footer class="foot">
+        <p>{{ site.title }} &middot; page updated {{ site.time | date: "%-d %B %Y" }}</p>
+        <p>Something missing or wrong? <a href="mailto:{{ site.contact_email }}">Tell us</a> and we will add it.</p>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>

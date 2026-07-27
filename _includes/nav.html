@@ -1,0 +1,14 @@
+<nav class="nav" aria-label="Site sections">
+  <a class="nav__brand" href="{{ '/' | relative_url }}">
+    <span class="nav__brand-title">{{ site.title }}</span>
+    <span class="nav__brand-sub">{{ site.subtitle }}</span>
+  </a>
+  <ul class="nav__list">
+    {% assign items = "/,Start here|/prework/,Before you travel|/agenda/,Agenda|/logistics/,Travel and kit|/subgroups/,Subgroups|/working-practices/,How we work|/faq/,FAQ" | split: "|" %}
+    {% for item in items %}
+      {% assign parts = item | split: "," %}
+      <li><a href="{{ parts[0] | relative_url }}"{% if page.url == parts[0] %} aria-current="page"{% endif %}>{{ parts[1] }}</a></li>
+    {% endfor %}
+  </ul>
+  <p class="nav__foot">Questions? <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>
+</nav>
