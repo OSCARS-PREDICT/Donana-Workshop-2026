@@ -30,7 +30,7 @@ The idea is that each subgroup has a named lead who is neither the Maria nor Emm
 
 **Focus:** who actually uses the forecasts, co-design for and with stakeholders, papers, policy briefs, training materials, and the sustainability plan to futureproof beyond the PREDICT project.
 
-**Supported by:** Melina.
+**Supported by:** Melina + ...
 
 ## Across all groups
 

@@ -1,12 +1,12 @@
 # ---------------------------------------------------------------------------
 title: "PREDICT 3-Day Doñana Workshop"
-subtitle: "First in-person workshop · Doñana Protected Area, Spain · 14-16 October 2026"
+subtitle: "First in-person workshop - Doñana Protected Area, Spain - 14-16 October 2026"
 
-baseurl: ""
-url: "https://github.com/OSCARS-PREDICT/Donana-Workshop-2026.github.io"
+baseurl: "/Donana-Workshop-2026"
+url: "https://github.com/OSCARS-PREDICT/Donana-Workshop-2026"
 
 contact_email: "emma.underwood@ebd.csic.es"
-repo_url: "https://github.com/OSCARS-PREDICT/Donana-Workshop-2026.github.io"
+repo_url: "https://github.com/OSCARS-PREDICT/Donana-Workshop-2026"
 
 # ---------------------------------------------------------------------------
 markdown: kramdown

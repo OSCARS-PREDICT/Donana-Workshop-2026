@@ -20,10 +20,10 @@ Please arrive at our offices from 10:00 on Wednesday 14th October 2026.**
 <span class="note__label">The coach leaves from the meeting point at EBD-CSIC offices at 11:00</span>
 The Doñana site entrance staff expect us at 13:00 and the journey is two hours. There is a full hour of buffer built in before departure, but if you miss it you will need to make your own way to the site — roughly 100km, ~€100 by taxi. Keep the receipt.
 
-Delayed? Call or message **Emma** as soon as you know. Emma will share her mobile number with you ahead of meeting.
+Delayed? Call or message **Emma** as soon as you know. Emma will share her mobile number with you ahead of meeting. We also advise downloading the LWE chat on your phone (see FAQ).
 </div>
 
-**The journey.** About 1h40 - 2 hours each way, we will be providing transport to and from Doñana. We do not plan a comfort stop en route. 
+**The journey.** About 1h45 - 2 hours each way, we will be providing transport to and from Doñana. We do not plan a comfort stop en route. 
 
 **Getting back.** The return transport leaves the site by **14:30 on Friday 16th October 2026** and reaches our EBD-CSIC offices at about **16:30**. Traffic on this route is unpredictable — please do not book onward travel departing before **19:30**.
 
@@ -52,7 +52,7 @@ Everything is provided for the duration:
 
 - **Breakfast** — a DIY / self-service. We will make sure the kitchen is stocked; you are free to make your own food in the mornings before our days begin from about 08:00. (e.g., Bread, fruit, yoghurt, cereal, eggs, coffee, tea). 
 - **Lunch and dinner** — provided by a catering team.
-- **Water, coffee and tea** available throughout.
+- **Water, coffee and tea** we will make sure it is available throughout. :) 
 
 **Dietary requirements and allergies** go on the form at (https://ee.kobotoolbox.org/x/8be7qdKo) by <span class="chip chip--quiet">(submit by 31 August 2026)</span>. Please state allergies explicitly and separately from preferences — the caterer needs to know the difference. We must give the catering team time to prepare this ahead of the workshop.
 

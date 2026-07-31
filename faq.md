@@ -13,7 +13,7 @@ No. There are very few presentations and a lot of working sessions. So come read
 You will be asked to bring your (v1 functional) code, progress it within the LifeWatch European Research Infrastructure Consortium (LWE ERIC or just LWE), get professional technical help in doing so (thanks LWE!), while bringing life to the PREDICT project. Be prepared to put your name against actions with dates to be held accountable. 
 
 **Why is so much of it outdoors?**
-The walking sessions will be optional/weather dependant (as we may just be into the rainy season here), but they are real working sessions. 
+The walking sessions will be optional/weather dependent (as we may just be into the rainy season here), but they are real working sessions. 
 We aim for this informal time to be where collaboration actually gets agreed. Making connections with one another, while immersed in one of our case study ecosystems, we hope, will be a nice project memory and motivator to push things forward.
 
 **Do I have to go birdwatching?**
@@ -90,7 +90,7 @@ It is preferred if we all arrive together by coach into the park to easily count
 ## Staying there
 
 **Am I sharing a room?**
-Most likely yes with one other person, due to limited space of the venue. We will arrange rooms by gender.
+Most likely yes, with one other person, due to limited space of the venue. We will arrange rooms by gender.
 
 **Are towels provided?**
 Yes, towels and bedding linen are provided.
