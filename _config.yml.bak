@@ -6,7 +6,7 @@ baseurl: "/Donana-Workshop-2026"
 url: "https://github.com/OSCARS-PREDICT/Donana-Workshop-2026"
 
 contact_email: "emma.underwood@ebd.csic.es"
-repo_url: "https://github.com/OSCARS-PREDICT/Donana-Workshop-2026/"
+repo_url: "https://github.com/OSCARS-PREDICT/Donana-Workshop-2026"
 
 # ---------------------------------------------------------------------------
 markdown: kramdown
