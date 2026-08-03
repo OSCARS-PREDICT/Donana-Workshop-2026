@@ -4,6 +4,8 @@ permalink: /agenda/
 title: "Agenda"
 eyebrow: "PREDICT: 3-day workshop in Doñana"
 standfirst: "A rough agenda. The coach arrival and departure times are fixed, but everything else in between can flex as we go."
+footer_image: /assets/img/stork.jpg
+footer_alt: "White stork in Doñana"
 ---
 
 This is a working retreat-type environment, and several sessions will happen on foot. Come ready to share your updates, integrate with the team, progress our shared and your specific code components, and put your name against actions with dates on them so we hold each other accountable.

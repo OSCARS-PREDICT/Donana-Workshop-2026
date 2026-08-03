@@ -4,23 +4,25 @@ permalink: /logistics/
 title: "Travel and kit"
 eyebrow: "Getting to Doñana, staying there and what to pack"
 standfirst: "Where to be and when, what we provide, and a suggested packing list (non-exhaustive)."
+footer_image: /assets/img/dragonfly.jpg
+footer_alt: "Dragonfly in Doñana"
 ---
 
 ## Meeting point
 Please arrive at our offices in Sevilla from 10:45 on Wednesday 14th October 2026 ready for 11:00 coach departure.
 Full address: CSIC: Doñana Biological Station, Building I, Cartuja TA-10, Edificio I, Calle Américo Vespucio, s/n, 41092 Sevilla, Spain
 Please also see [Google map pin](https://maps.app.goo.gl/LVze8CcKFi8Bquhh9).
-What3words for our building/meeting point [here](https://what3words.com/desk.bracelet.intervals)
+What3words for our building/meeting point [here](https://what3words.com/desk.bracelet.intervals).
 
 ## Getting there
 **We are providing transport to get us all from Sevilla to Doñana where our workshop will take place. 
-Please arrive at our offices from 10:00 on Wednesday 14th October 2026.** 
+Please arrive at our offices from 10:45 on Wednesday 14th October 2026.** 
 
 <div class="note note--warn" markdown="1">
 <span class="note__label">The coach leaves from the meeting point at EBD-CSIC offices at 11:00</span>
-The Doñana site entrance staff expect us at 13:00 and the journey is two hours. There is a full hour of buffer built in before departure, but if you miss it you will need to make your own way to the site — roughly 100km, ~€100 by taxi. Keep the receipt.
+The Doñana site entrance staff expect us at 13:00 and the journey is two hours. 
 
-Delayed? Call or message **Emma** as soon as you know. Emma will share her mobile number with you ahead of meeting. We also advise downloading the LWE chat on your phone (see FAQ).
+Delayed? Call or message **Emma** as soon as you know. We also advise downloading the LWE chat on your phone (see FAQ). If you miss the bus, you will need to make your own way to the site — roughly 100km, ~€100 by taxi. Keep the receipt.
 </div>
 
 **The journey.** About 1h45 - 2 hours each way, we will be providing transport to and from Doñana. We do not plan a comfort stop en route. 
@@ -35,9 +37,9 @@ We would like to minimise this as much as possible, although we understand life 
 
 ## Where we are staying in Doñana
 
-**Reserva Biológica de Doñana (RBD) / Doñana Biological Reserve (RBD)** See [what3words](https://what3words.com/heroics.documenting.positivity) for our location.
-inside Parque Nacional de Doñana / National Park of Doñana, which covers 6,794 Ha. This is state-owned and managed by EBD-CSIC. EBD-CSIC coordinates research inside this area, and this part is non-public. Our workshop is a great opportunity to explore this beautiful habitat and wildlife. The wider Doñana Natural Area (National Park and Natural Park since 1978) is over 120,000 Ha.
-[https://www.ciencia.gob.es/en/Organismos-y-Centros/ICTS/CienciasMar/RBD.html](https://www.ciencia.gob.es/en/Organismos-y-Centros/ICTS/CienciasMar/RBD.html)
+**Reserva Biológica de Doñana (RBD) / Doñana Biological Reserve (RBD)** See [our location](https://what3words.com/heroics.documenting.positivity) inside Parque Nacional de Doñana / National Park of Doñana, which covers a large area of wetland (6,794 Ha). This is state-owned and managed by EBD-CSIC. EBD-CSIC coordinates research inside this area, and this part is non-public. Our workshop is a great opportunity to explore this beautiful habitat and wildlife. 
+The wider Doñana Natural Area (National Park and Natural Park since 1978) is over 120,000 Ha.
+[See more info about the Park here](https://www.ciencia.gob.es/en/Organismos-y-Centros/ICTS/CienciasMar/RBD.html)
 
 | | |
 |---|---|
@@ -51,7 +53,7 @@ inside Parque Nacional de Doñana / National Park of Doñana, which covers 6,794
 
 Everything is provided for the duration:
 
-- **Breakfast** — a DIY / self-service. We will make sure the kitchen is stocked; you are free to make your own food in the mornings before our days begin from about 08:00. (e.g., Bread, fruit, yoghurt, cereal, eggs, coffee, tea). 
+- **Breakfast** — We will get supplies in for a DIY / self-service in the mornings at your own pace. (e.g., Bread, fruit, yoghurt, cereal, eggs, coffee, tea). 
 - **Lunch and dinner** — provided by a catering team.
 - **Water, coffee and tea** we will make sure it is available throughout. :) 
 
@@ -110,7 +112,7 @@ We are in a protected area. Stay on marked paths, take rubbish with you, and fol
 |---|---|
 | Emergency services in Spain | **112** |
 | Coordinator | Emma — will share mobile via email |
-| Site entrance/reception | [Location](https://what3words.com/unrestricted.supernatural.inflame) |
+| Site entrance/reception | Entrance on Pista Carril del Palacio de Doñ, just off the main A-493 to Mataslascañas. [Exact Location](https://what3words.com/unrestricted.supernatural.inflame) |
 | Nearest clinic | Ambulatorio Centro Salud Matalascañas, (20 min drive through and just outside of the park) |
 | Nearest hospital | Hospital Universitario Juan Ramón Jiménez, Ronda Norte, s/n, 21005 Huelva, Spain, (~1hr drive outside of the park) |
 

@@ -1,4 +1,7 @@
 ---
+hero: /assets/img/donana-hero.jpg
+hero_alt: "Doñana wetland at dawn"
+hero_caption: "Doñana National Park, Spain"
 layout: default
 permalink: /
 title: "PREDICT: 3-day workshop in Doñana"

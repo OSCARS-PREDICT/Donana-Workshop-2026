@@ -4,6 +4,8 @@ permalink: /faq/
 title: "FAQ"
 eyebrow: "This is a living document"
 standfirst: "If your question isn't here, email [Emma](mailto:emma.underwood@ebd.csic.es) and she will add it to the list. Nobody has ever been the only person wondering :)."
+footer_image: /assets/img/horses.jpg
+footer_alt: "Horses in Doñana"
 ---
 
 ## The programme

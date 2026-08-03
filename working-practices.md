@@ -4,6 +4,8 @@ permalink: /working-practices/
 title: "How we work"
 eyebrow: "A plan for where things live - during and after the workshop"
 standfirst: "One canonical home, one note template, and every action carrying an owner and a date. This is the difference between a good three days and a good three days that changes nothing."
+footer_image: /assets/img/moth.jpg
+footer_alt: "Moth in Doñana"
 ---
 
 ## One home, not five

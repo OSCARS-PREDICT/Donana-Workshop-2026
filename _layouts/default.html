@@ -7,11 +7,22 @@
     <header class="sidebar">{% include nav.html %}</header>
     <main class="main" id="main">
       <article class="prose">
+        {% if page.hero %}
+        <figure class="hero">
+          <img src="{{ page.hero | relative_url }}" alt="{{ page.hero_alt | default: 'Doñana wetland' }}">
+          {% if page.hero_caption %}<figcaption class="hero__caption">{{ page.hero_caption }}</figcaption>{% endif %}
+        </figure>
+        {% endif %}
         {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
         {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
         {% if page.standfirst %}<p class="standfirst">{{ page.standfirst }}</p>{% endif %}
         {{ content }}
       </article>
+      {% if page.footer_image %}
+      <figure class="pagefoot-img">
+        <img src="{{ page.footer_image | relative_url }}" alt="{{ page.footer_alt | default: 'Doñana wildlife' }}">
+      </figure>
+      {% endif %}
       <footer class="foot">
         <p>{{ site.title }} &middot; page updated {{ site.time | date: "%-d %B %Y" }}</p>
         <p>Something missing or wrong? <a href="mailto:{{ site.contact_email }}">Tell us</a> and we will add it.</p>

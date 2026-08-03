@@ -4,6 +4,8 @@ permalink: /subgroups/
 title: "Subgroups"
 eyebrow: "How we could split the work for our project"
 standfirst: "A draft split, as a basis for discussions during the workshop. Have a look before you arrive and think about where you want to be — and where you would actually be most useful."
+footer_image: /assets/img/plants.jpg
+footer_alt: "Plants in Doñana"
 ---
 
 The idea is that each subgroup has a named lead who is neither the Maria nor Emma. We each sit in one primary subgroup. This does not mean we cannot also contribute within other sub-groups, but this attempts to split the work fairly across discipline/strengths of team members. We can edit these groups and their remit when we are together, this below is so we have somewhere to start from:

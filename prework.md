@@ -4,6 +4,8 @@ permalink: /prework/
 title: "Before you travel"
 eyebrow: "Pre-workshop requirements and forms"
 standfirst: "Technical workflow requirements, forms to fill out, and one short set of update slides to make."
+footer_image: /assets/img/road.jpg
+footer_alt: "Road in Doñana"
 ---
 
 ## The pre-workshop technical requirements
