@@ -1,5 +1,5 @@
 /* =========================================================================
-   [PROJECT] workshop site
+   PREDICT workshop site styling
    Palette: wetland at dawn. Deep green-black ink, cool reed paper,
    still-water teal, sage, and a single flamingo accent reserved for
    deadlines and unmissable times. Nothing else may use flamingo.
@@ -126,7 +126,9 @@ body {
   width: 100%;
   box-sizing: border-box;
   padding-top: 1.6rem;
-  .hero::after {
+}
+/* photo credit on the homepage hero — mirrors the footer credit, bottom-right */
+.hero::after {
   content: "Photo: Hanna Serediuk";
   position: absolute;
   right: 0;
