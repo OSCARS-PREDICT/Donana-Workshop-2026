@@ -2,7 +2,7 @@
 layout: default
 permalink: /working-practices/
 title: "How we work"
-eyebrow: "Where things live - during and after the workshop"
+eyebrow: "A plan for where things live - during and after the workshop"
 standfirst: "One canonical home, one note template, and every action carrying an owner and a date. This is the difference between a good three days and a good three days that changes nothing."
 ---
 
@@ -13,11 +13,11 @@ That is not how we want to run things in PREDICT. Here is the structure we will 
 
 | Layer | Where | Rule |
 |---|---|---|
-| **Canonical record** — decisions, roadmap, specs, meeting synthesis | >>[Our chosen repo location TBC ./docs], in version control | If it isn't here, it didn't happen |
-| **Actions and blockers** | Issues on >>[Our chosen open-source tracker TBC], one board | Every action is an issue with an owner and a due date |
-| **Live notes during sessions** | One pad per session, >>[Link TBC] | Migrated into the group repo within 24 hours |
-| **Chat** | [https://chat.lifewatch.dev/] | **Not a record.** Anything decided in our chat spaces gets converted to an issue that is trackable |
-| **Slides, photos, large files** | >>[Our chosen shared drive location TBC] | Linked from our chosen repo/location, never the only copy |
+| **Canonical record** — decisions, roadmap, specs, meeting synthesis | [Our chosen repo location TBC ./docs], in version control | If it isn't here, it didn't happen |
+| **Actions and blockers** | Issues on [Our chosen open-source tracker TBC], one board | Every action is an issue with an owner and a due date |
+| **Live notes during sessions** | One pad per session, [Link TBC] | Migrated into the group repo within 24 hours |
+| **Chat** | [https://chat.lifewatch.dev/](https://chat.lifewatch.dev/) | **Not a record.** Anything decided in our chat spaces gets converted to an issue that is trackable |
+| **Slides, photos, large files** | [Our chosen shared drive location TBC] | Linked from our chosen repo/location, never the only copy |
 
 ## During the workshop
 
