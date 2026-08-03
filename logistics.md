@@ -61,7 +61,7 @@ Everything is provided for the duration:
 
 ## What to bring
 
-October in the Doñana area means warm / hot days with an average of ~20°C (10 - 30°C) with roughly 11 hrs of daylight, cooler mornings and evenings, strong sun, and a chance of wind (~4m/s) or rain (~2mm/day). Averages taken from (https://www.moriatlas.com/en/park/donana-national-park/climate).
+October in the Doñana area means warm / hot days with an average of ~20°C (10 - 30°C) with roughly 11 hrs of daylight, cooler mornings and evenings, strong sun, and a chance of wind (~4m/s) or rain (~2mm/day). Averages taken from [moriatlas](https://www.moriatlas.com/en/park/donana-national-park/climate).
 
 ### Essential
 

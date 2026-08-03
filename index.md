@@ -22,21 +22,20 @@ Our workshop is hands-on and technical. It only works if you have some kind of f
   </div>
 <div class="req-item">
     <div>
-      <h3> AJson metadata file(s)</h3>
+      <h3>Json metadata file(s)</h3>
       <p>A <code>Json file</code> in your repository, a json metadata file, that lists all your arguments required for your component(s) and workflow to run.</p>
     </div>
   </div>
   <div class="req-item">
     <div>
       <h3>Your first push to LWE GitLab</h3>
-      <p>Account created, LWE GitLab repository set up, containerised workflow pushed. A rough 'firstimplement' push is fine — the point is that the logins, installing, teething problems are complete before you travel, so Day 2 is spent integrating and progressing more collaboratively.</p>
+      <p>Account created, LWE GitLab repository set up, components/ workflow pushed. A rough 'firstimplement' push is fine — the point is that the logins, installing, teething problems are complete before you travel, so Day 2 is spent integrating and progressing more collaboratively.</p>
     </div>
   </div>
-</div>
   <div class="req-item">
     <div>
-      <h3>A nice to have: Docker container</h3>
-      <p>A <code>Dockerfile</code> in your repository, an image that builds from scratch, and your workflow running inside the container.</p>
+      <h3>Docker container</h3>
+      <p>A <code>Dockerfile</code> in your repository, an image that builds from scratch, and your workflow running inside the container. Right now, this is a nice to have. </p>
     </div>
   </div>
 <div class="req-item">
@@ -67,10 +66,10 @@ By the time we meet in Sevilla/Doñana, the PREDICT project has 18 months left a
 
 | What | When |
 |---|---|
-| Dietary requirements form [https://ee.kobotoolbox.org/x/8be7qdKo] | <span class="chip chip--quiet">Complete by Monday 31st August 2026</span> |
-| Travel details and arrival time [https://ee.kobotoolbox.org/x/hydbfNID] | <span class="chip chip--quiet">Complete by Monday 31st August 2026</span> |
+| [Dietary requirements form](https://ee.kobotoolbox.org/x/8be7qdKo) | <span class="chip chip--quiet">Submitted by Monday 31st August 2026</span> |
+| [Travel/arrival form](https://ee.kobotoolbox.org/x/hydbfNID) | <span class="chip chip--quiet">Submitted by Monday 31st August 2026</span> |
 | Three slides: "My workflow in 5 minutes" | <span class="chip chip--quiet">Submitted by Friday 9th October</span> |
-| Your first workflow pushed to LWE GitLab | <span class="chip">Monday 12th October 2026</span> |
+| Your first workflow pushed to LWE GitLab | <span class="chip">Pushed by Monday 12th October 2026</span> |
 | **Be at EBD-CSIC, Sevilla** | <span class="chip">Wednesday 14th October 2026 from 10:45</span> |
 | **Coach departs for Doñana** | <span class="chip">Wednesday 14th October 2026 11:00</span> |
 | End: Coach leaves the Doñana site | <span class="chip">Friday 16th October 2026 14:30</span> |

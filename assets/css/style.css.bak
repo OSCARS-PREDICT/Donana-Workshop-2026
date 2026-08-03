@@ -126,19 +126,6 @@ body {
   width: 100%;
   box-sizing: border-box;
   padding-top: 1.6rem;
-  .hero::after {
-  content: "Photo: Hanna Serediuk";
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  font-family: var(--mono);
-  font-size: .62rem;
-  letter-spacing: .03em;
-  color: #fff;
-  background: color-mix(in srgb, var(--ink) 68%, transparent);
-  padding: .3rem .6rem;
-  border-top-left-radius: 3px;
-  z-index: 2;
 }
 
 /* ----------------------------------------------------------------- nav -- */
