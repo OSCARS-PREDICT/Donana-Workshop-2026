@@ -56,12 +56,12 @@ Check back here to find full LWE guidance [link will be added TBC]. Here is a hi
  
  c. Navigate to that local folder within your computer's Command Prompt app (cmd line) using the 'cd' command N.B. File paths on Windows machines use forward slash (/), Apple MAC use back slash (\) Emma's example:  
     
-    >cd .\Documents\PREDICT\LWE<
+    cd .\Documents\PREDICT\LWE
     
- d. Use the cmd line, and the http link copied from your GitLab component page to clone the repository onto your machine, for e.g., 
+ d. Use the cmd line, and the http link copied from your GitLab component page to clone the repository onto your machine, for e.g., (make sure to replace "EcologicalForecastingEvaluator" with your actual component name!)
     
     git clone https://gitlab.lifewatch.dev/workflows/workflow-components/EcologicalForecastingEvaluator.git
-    (but replace "EcologicalForecastingEvaluator" with your actual component name!)
+  
  
  This brings all the LWE necessary metadata file templates onto your local machine. 
 
@@ -120,13 +120,13 @@ We are also running a pre-workshop drop in session(s) in September to help with 
 ## Pre-workshop checklist
 
 <ul class="check">
-<li>Your LWE account [GitLab](https://gitlab.lifewatch.dev/) account active</li> 
-<li>Your initial [workflow diagram](https://drive.google.com/drive/folders/1GLcvIkOvdZeHQf9LtxC9K0jMTLYf_ztO) ready, with individual components planned, first meeting/discussion with LWE completed</li>
+<li>Your LWE account GitLab account active (https://gitlab.lifewatch.dev/)</li> 
+<li>Your initial workflow diagram ready, with individual components planned, first meeting/discussion with LWE completed</li>
 <li>Your script parameters are clearly defined, and set up as arguments in your code</li>
 <li>Your workflow components run locally with a small subset of data</li>
 <li>Your annotation schema is created (.Json file). This is your component metadata - must match the arguments expected in the [LWE template](https://gitlab.lifewatch.dev/workflows/legacy-component-metadata/-/blob/main/annotation-schema.json?ref_type=heads)</li>
 <li>Your dependencies (e.g., R packages and installations required) are ready in a .txt file (this is a planned workaround if Docker is not working for you)</li>
-<li>Your component repository(s) are requested to LWE and they set up for you inside [GitLab](https://gitlab.lifewatch.dev/workflows/workflow-components)</li>
+<li>Your component repository(s) are requested to LWE and they set up for you inside GitLab (https://gitlab.lifewatch.dev/workflows/workflow-components)</li>
 <li>You clone your component repository(s) locally to your machine</li>
 <li>Your first working code is copied into your cloned local repository</li>
 <li>Your first code is pushed back into a new "firstimplement" branch (branched from "develop" branch) of the component repository in LWE GitLab</li>
@@ -145,7 +145,7 @@ The **Monday 12th October** deadline for your first code push is real, please re
 Sharing any issues you have early costs you nothing, and helps our collective progress.
 Don't forget, we are here to help!
 
-## The other three things
+## The other three admin-y things
 
 ### 1. Pre-workshop stakeholder engagement survey
 

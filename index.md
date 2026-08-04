@@ -23,7 +23,7 @@ Our workshop is hands-on and technical. It only works if you have some kind of f
 <div class="req-item">
     <div>
       <h3>Json metadata file(s)</h3>
-      <p>A <code>Json file</code> in your repository, a json metadata file, that lists all your arguments required for your component(s) and workflow to run.</p>
+      <p>A <code>Json file</code> in your repository that lists all your arguments required for your component(s) and workflow to run.</p>
     </div>
   </div>
   <div class="req-item">
@@ -35,7 +35,7 @@ Our workshop is hands-on and technical. It only works if you have some kind of f
   <div class="req-item">
     <div>
       <h3>Docker container</h3>
-      <p>A <code>Dockerfile</code> in your repository, an image that builds from scratch, and your workflow running inside the container. Right now, this is a nice to have. </p>
+      <p>A <code>Dockerfile</code> in your repository, an image that builds from scratch, and your workflow running inside the container. Right now, this is a nice to have as not everyone is familar, and LWE are making this part easier for us (watch this space). </p>
     </div>
   </div>
 <div class="req-item">
@@ -70,6 +70,7 @@ By the time we meet in Sevilla/Doñana, the PREDICT project has 18 months left a
 
 | What | When |
 |---|---|
+| [Pre-workshop stakeholder survey](https://ee.kobotoolbox.org/x/s9yfCDz5) | <span class="chip chip--quiet">Submitted by Monday 31st August 2026</span> |
 | [Dietary requirements form](https://ee.kobotoolbox.org/x/8be7qdKo) | <span class="chip chip--quiet">Submitted by Monday 31st August 2026</span> |
 | [Travel/arrival form](https://ee.kobotoolbox.org/x/hydbfNID) | <span class="chip chip--quiet">Submitted by Monday 31st August 2026</span> |
 | Three slides: "My workflow in 5 minutes" | <span class="chip chip--quiet">Submitted by Friday 9th October</span> |
