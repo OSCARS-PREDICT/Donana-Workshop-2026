@@ -25,7 +25,7 @@ For the workshop, this should be a subset of your data (especially if your study
 - It writes outputs to disk in a documented format, e.g., <code>.OMX</code> or other open standard
 - Includes a short <code>.txt file</code> indicating all installations, packages and versions required
 - Component annotation metadata file created <code>.json file</code> see [https://gitlab.lifewatch.dev/workflows/legacy-component-metadata/-/blob/main/annotation-schema.json?ref_type=heads]
-- Pushed to a <code>firstimplement</code> branch off develop branch in GitLab (see below)
+- Pushed to a <code>firstimplement</code> branch off <code>develop</code> branch in GitLab (see below)
 
 **What it does not need to be**
 
@@ -50,25 +50,37 @@ Check back here to find full LWE guidance [link will be added TBC]. Here is a hi
 2. Raise ICT ticket to request component repository be set up for you [https://ictdesk.lifewatch.eu/front/helpdesk.public.php].
 
 3. Clone the newly created component repository to your local computer/machine:
- a. Log into LWE Gitlab, navigate to your new component repo, click Clone > Copy (make a note of the http link path)
+ a. Log into LWE [Gitlab](https://gitlab.lifewatch.dev/), navigate to your new component repo, click Clone > Copy (make a note of the http link path)
+ 
  b. Set up a local document folder on your computer
+ 
  c. Navigate to that local folder within your computer's Command Prompt app (cmd line) using the 'cd' command N.B. File paths on Windows machines use forward slash (/), Apple MAC use back slash (\) Emma's example:  
-    <code>cd .\Documents\PREDICT\LWE<c/ode>
+    
+    <code>cd .\Documents\PREDICT\LWE</code>
+    
  d. Use the cmd line, and the http link copied from your GitLab component page to clone the repository onto your machine, for e.g., 
-    <code>git clone https://gitlab.lifewatch.dev/workflows/workflow-components/EcologicalForecastingEvaluator.git"</code> 
+    
+    <code>git clone https://gitlab.lifewatch.dev/workflows/workflow-components/EcologicalForecastingEvaluator.git</code> 
     (but replace "EcologicalForecastingEvaluator" with your actual component name!)
+ 
  This brings all the LWE necessary metadata file templates onto your local machine. 
 
 4. Use file explorer to paste your functioning code/scripts and associated metadata to this same folder.
 
 5. Push your code update back to LWE GitLab on a new (temporary/private) branch off the 'develop' branch named e.g., <code>firstimplement</code>:
+ 
  a. How to do this with the cmd line:
+    
     <code>git fetch origin</code> 
-    This fetches the remote develop branch so git knows it exists locally.
+    
+  This fetches the remote develop branch so git knows it exists locally.
+    
     <code>git checkout -b feature/firstimplement origin/develop</code>
-    Creates your 'firstimplement' feature branch off develop (not main)
+    
+  Creates your 'firstimplement' feature branch off develop (not main)
 
 Next you can stage your new code files using "git add filename.fileformat" - here are some examples:
+    
     <code>git add README.md</code> (README helpful for group understanding of your code)
     <code>git add annotation.json</code> (The most important file that explains your code parameters/arguments)
     <code>git add yourscript.R</code> (your scripts)
@@ -78,16 +90,19 @@ Next you can stage your new code files using "git add filename.fileformat" - her
     <code>git status</code> (to check status and see what git sees is already there)
 
 Next write your comit message e.g.,:
+    
     <code>git commit -m "feat: add Climate Data Downloader component v0.1.0 (Copernicus CDS + CHELSA)"</code>
 Finally, push to the new feature branch off develop (e.g., firstimplement)
+    
     <code>git push origin feature/firstimplement</code>
-You can view the web version of your code repository in GitLab to check it all uploaded ok. 
 
-**Done means:** your repository is visible to you (with a lock symbol - this means it is not published yet) under (https://gitlab.lifewatch.dev/workflows/workflow-components), the pipeline has run at least once locally, and you are ready for LWE support to get fully integrated.
+You can view the web version of your code repository in [GitLab](https://gitlab.lifewatch.dev/) to check it all uploaded ok. 
+
+**Done means:** your repository is visible to you (with a lock symbol - this means it is not published yet) inside the [LWE workflow components project](https://gitlab.lifewatch.dev/workflows/workflow-components), the pipeline has run at least once locally, and you are ready for LWE support to get fully integrated.
 
 ### 3. Setting up Docker containerisation
 
-<span class="chip">(Ideally) before October workshop, not mandatory</span>
+<span class="chip">(Ideally) before October workshop, but not mandatory if you have not worked with Docker before</span>
 
 Eventually, your workflow will need to be able to run the same way on someone else's machine and on LWE infrastructure. 
 That means it needs a container. LWE are working on a new and easier way to make this happen, and guidance will be shared soon.
@@ -105,11 +120,11 @@ We are also running a pre-workshop drop in session(s) in September to help with 
 ## Pre-workshop checklist
 
 <ul class="check">
-<li>Your LWE account GitLab account active</li> 
-<li>Your initial workflow diagram ready, with individual components planned, first meeting/discussion with LWE completed</li>
-<li>Your R script parameters are clearly defined, and set up as arguments in your code</li>
-<li>Your R workflow components run locally with a small subset of data</li>
-<li>Your annotation schema is created (.Json file). This is your component metadata - must match [LWE template](https://gitlab.lifewatch.dev/workflows/legacy-component-metadata/-/blob/main/annotation-schema.json?ref_type=heads)</li>
+<li>Your LWE account [GitLab](https://gitlab.lifewatch.dev/) account active</li> 
+<li>Your initial [workflow diagram](https://drive.google.com/drive/folders/1GLcvIkOvdZeHQf9LtxC9K0jMTLYf_ztO) ready, with individual components planned, first meeting/discussion with LWE completed</li>
+<li>Your script parameters are clearly defined, and set up as arguments in your code</li>
+<li>Your workflow components run locally with a small subset of data</li>
+<li>Your annotation schema is created (.Json file). This is your component metadata - must match the arguments expected in the [LWE template](https://gitlab.lifewatch.dev/workflows/legacy-component-metadata/-/blob/main/annotation-schema.json?ref_type=heads)</li>
 <li>Your dependencies (e.g., R packages and installations required) are ready in a .txt file (this is a planned workaround if Docker is not working for you)</li>
 <li>Your component repository(s) are requested to LWE and they set up for you inside [GitLab](https://gitlab.lifewatch.dev/workflows/workflow-components)</li>
 <li>You clone your component repository(s) locally to your machine</li>
@@ -126,7 +141,7 @@ Understandable! Please do not go quiet or get put off by the more technical elem
 - **Drop-in session(s)** - September TBC with LWE Engineers on hand to help. No agenda, no preparation. Bring whatever is broken/not running and we can help.
 - **Open an issue** - Raise a ticket with [LWE ICT Helpdesk](https://ictdesk.lifewatch.eu/). You have to be registered, any issues speak to Emma.
 
-The October deadline for your draft code is real, please respect it.
+The **Monday 12th October** deadline for your first code push is real, please respect it.
 Sharing any issues you have early costs you nothing, and helps our collective progress.
 Don't forget, we are here to help!
 
@@ -136,11 +151,11 @@ Don't forget, we are here to help!
 
 Melina our PREDICT partner is building a stakeholder engagement workshop session that requires your input first. 
 Please participate as honestly as possible in where you are with these considerations in your workflow development.
-<span class="chip chip--quiet">[Submitted by Monday 31 August]</span> — [fill out here](https://ee.kobotoolbox.org/x/s9yfCDz5)
+<span class="chip chip--quiet">Submitted by Monday 31 August</span> — [fill out here](https://ee.kobotoolbox.org/x/s9yfCDz5)
 
 ### 2. Workflow update: "My workflow in 5 minutes"
 
-<span class="chip chip--quiet">[Submitted by Friday 9th October]</span> — upload to [our shared google drive](https://drive.google.com/drive/folders/1qqk_UDSeDCP8-x8PZqfBe5jC8SVx3yXW)
+<span class="chip chip--quiet">Submitted by Friday 9th October</span> — upload to [our shared google drive](https://drive.google.com/drive/folders/1qqk_UDSeDCP8-x8PZqfBe5jC8SVx3yXW)
 
 You will present these when we arrive in Doñana. Five minute updates, three slides max:
 
@@ -154,12 +169,12 @@ No formal introduction needed, no results slides. If you have done the pre-works
 #### Dietary info
 
 Any allergies or intolerances, which meals you will be present for, so we can update the catering team.
-<span class="chip chip--quiet">Complete by Monday 31st August 2026</span> — [Fill out here](https://ee.kobotoolbox.org/x/8be7qdKo)
+<span class="chip chip--quiet">Submitted by Monday 31st August 2026</span> — [Fill out here](https://ee.kobotoolbox.org/x/8be7qdKo)
 
 
 #### Travel details
 
-<span class="chip chip--quiet">Complete by Monday 31st August 2026</span> — [Fill out here](https://ee.kobotoolbox.org/x/vMj7Shfl)
+<span class="chip chip--quiet">Submitted by Monday 31st August 2026</span> — [Fill out here](https://ee.kobotoolbox.org/x/vMj7Shfl)
 
 Arrival time in Sevilla, flight or train number, and a mobile number we can reach you on during travel day.
 Even better, download the LWE chat app onto your phone and saves sharing personal info. See FAQ for help.

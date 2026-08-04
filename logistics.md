@@ -44,7 +44,7 @@ The wider Doñana Natural Area (National Park and Natural Park since 1978) is ov
 | | |
 |---|---|
 | Rooms | Two people per room with en-suite bathroom (split by gender) |
-| Towels and linen are provided, bring your own toiletries though |
+| Towels and linen | these are provided, bring your own toiletries though |
 | Temperature | Pack appropriately day times can be hot, but nights can drop to about 10°C in October |
 | Luggage | Rooms vacated by 09:30; storage onsite until the coach arrives |
 | Nearest shop | Matalascañas - but not accessible from our location in the park without a vehicle |

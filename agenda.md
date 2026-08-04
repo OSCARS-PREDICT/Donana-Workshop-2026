@@ -26,8 +26,8 @@ Be at <strong>EBD-CSIC, Sevilla by 10:45</strong> on Wednesday, coffee'd and rea
     <div class="tt-body"><h4>Arrive at EBD-CSIC, Sevilla</h4><p>Coach departs 11:00. Two hours to Doñana; bring drink and a snack.</p></div>
   </div>
   <div class="tt-row is-soft">
-    <div class="tt-time">Find rooms, drop bags, settle in & most importantly, lunch</div>
-    <div class="tt-body"><h4>On arrival</h4></div>
+    <div class="tt-time">Lunch</div>
+    <div class="tt-body"><h4>On arrival. Find rooms, drop bags, settle in</h4></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">PM</div>
@@ -35,17 +35,17 @@ Be at <strong>EBD-CSIC, Sevilla by 10:45</strong> on Wednesday, coffee'd and rea
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">Dinner</div>
-    <div class="tt-body"><h4>Then informal — optional "failure fest" - what's gone wrong in other models, workflows, or collabs and why</h4></div>
+    <div class="tt-body"><h4>With informal/optional "failure fest" - what's gone wrong in other models, workflows, or collabs and why</h4></div>
   </div>
 </div>
 
 <h2 class="tt-day">Day 2: Thursday 15th October</h2>
-<p class="tt-theme">The core technical day — LWE integration, live coding sessions, demos, and workflow progress</p>
+<p class="tt-theme">The core technical day: LWE integration, live coding sessions, demos, and workflow progress</p>
 
 <div class="tt">
   <div class="tt-row is-soft">
     <div class="tt-time">Breakfast</div>
-    <div class="tt-body"><h4>DIY — optional dawn walk or observatory first</h4></div>
+    <div class="tt-body"><h4>At your own pace, with optional dawn walk or observatory first</h4></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">AM</div>
@@ -53,7 +53,7 @@ Be at <strong>EBD-CSIC, Sevilla by 10:45</strong> on Wednesday, coffee'd and rea
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">Lunch</div>
-    <div class="tt-body"><h4></h4></div>
+    <div class="tt-body"><h4>Screen break and stretch our legs</h4></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">PM</div>
