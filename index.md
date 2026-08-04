@@ -1,7 +1,7 @@
 ---
 hero: /assets/img/donana-hero.jpg
 hero_alt: "Doñana wetland at dawn"
-hero_caption: "Doñana National Park, Spain"
+hero_caption: ""
 layout: default
 permalink: /
 title: "PREDICT: 3-day workshop in Doñana"
@@ -44,7 +44,7 @@ Our workshop is hands-on and technical. It only works if you have some kind of f
       <p>A Form include your travel information, your dietary requirements and a pre-workshop stakeholder survey (Deadline for pre-workshop forms: by 31 August 2026).</p>
     </div>
   </div>
-
+</div>
 <p><span class="chip">Deadline for technical work: Monday 12th October 2026 </span> &nbsp; Further instructions, and where to get help: <a href="{{ '/prework/' | relative_url }}">Before you travel</a>.</p>
 
 <div class="note note--warn" markdown="1">
@@ -104,6 +104,6 @@ Claim back your other travel and accommodation expenses to and from Sevilla via 
 
 <div class="note" markdown="1">
 <span class="note__label">One note on format</span>
-This event is **in person only**. Emily joins us online during our 5 min updates to one another, but we are not running the rest hybrid — we do not have the AV setup or the facilitation capacity to do it well, and half-hearted hybrid is worse than none.
+This event is **in person only**. Emily joins us online during our 5 min updates, but the rest in person — we do not have the AV setup or the facilitation capacity to do it well, and half-hearted hybrid is worse than none.
 </div>
 

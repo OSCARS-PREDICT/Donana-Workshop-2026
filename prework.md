@@ -56,11 +56,11 @@ Check back here to find full LWE guidance [link will be added TBC]. Here is a hi
  
  c. Navigate to that local folder within your computer's Command Prompt app (cmd line) using the 'cd' command N.B. File paths on Windows machines use forward slash (/), Apple MAC use back slash (\) Emma's example:  
     
-    <code>cd .\Documents\PREDICT\LWE</code>
+    >cd .\Documents\PREDICT\LWE<
     
  d. Use the cmd line, and the http link copied from your GitLab component page to clone the repository onto your machine, for e.g., 
     
-    <code>git clone https://gitlab.lifewatch.dev/workflows/workflow-components/EcologicalForecastingEvaluator.git</code> 
+    git clone https://gitlab.lifewatch.dev/workflows/workflow-components/EcologicalForecastingEvaluator.git
     (but replace "EcologicalForecastingEvaluator" with your actual component name!)
  
  This brings all the LWE necessary metadata file templates onto your local machine. 
@@ -71,30 +71,30 @@ Check back here to find full LWE guidance [link will be added TBC]. Here is a hi
  
  a. How to do this with the cmd line:
     
-    <code>git fetch origin</code> 
+    git fetch origin
     
   This fetches the remote develop branch so git knows it exists locally.
     
-    <code>git checkout -b feature/firstimplement origin/develop</code>
+    git checkout -b feature/firstimplement origin/develop
     
   Creates your 'firstimplement' feature branch off develop (not main)
 
 Next you can stage your new code files using "git add filename.fileformat" - here are some examples:
     
-    <code>git add README.md</code> (README helpful for group understanding of your code)
-    <code>git add annotation.json</code> (The most important file that explains your code parameters/arguments)
-    <code>git add yourscript.R</code> (your scripts)
-    <code>git add yourpackages_installations.txt</code> (Describes to LWE which packages require installaing to run your code)
-    <code>git add Dockerfile</code> (leave as template if you not yet working)
-    <code>git add entrypoint.sh</code> (leave as template if Docker not yet working)
-    <code>git status</code> (to check status and see what git sees is already there)
+    git add README.md        #(README helpful for group understanding of your code)
+    git add annotation.json  #(The most important file that explains your code parameters/arguments)
+    git add yourscript.R     #(your scripts - can be any language)
+    git add yourpackages_installations.txt #(Describes to LWE which packages require installaing to run your code)
+    git add Dockerfile       #(leave as template if you not yet working)
+    git add entrypoint.sh    #(leave as template if Docker not yet working)
+    git status               #(to check status and see what git sees is already there)
 
 Next write your comit message e.g.,:
     
-    <code>git commit -m "feat: add Climate Data Downloader component v0.1.0 (Copernicus CDS + CHELSA)"</code>
+    git commit -m "feat: add Climate Data Downloader component v0.1.0 (Copernicus CDS + CHELSA)"
 Finally, push to the new feature branch off develop (e.g., firstimplement)
     
-    <code>git push origin feature/firstimplement</code>
+    git push origin feature/firstimplement
 
 You can view the web version of your code repository in [GitLab](https://gitlab.lifewatch.dev/) to check it all uploaded ok. 
 
