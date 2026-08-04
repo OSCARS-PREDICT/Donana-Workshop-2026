@@ -52,17 +52,21 @@ Our workshop is hands-on and technical. It only works if you have some kind of f
 That is absolutely fine, but it is better to reach out now rather than in October. Drop-in technical session(s) will run in early September. Bring whatever is broken so we can help you prepare. 
 </div>
 
+
 ## Why we are all travelling
 
-By the time we meet in Sevilla/Doñana, the PREDICT project has 18 months left and we have been working remotely so far. These three days exist to produce four things that cannot be produced on a call 
-(all with the brilliant, professional support from LWE computing engineers):
+
+By the time we meet in Sevilla/Doñana, the PREDICT project has 18 months left and we have been working remotely so far. These three days exist to produce four things that cannot be produced on a call (all with the brilliant, professional support from LWE computing engineers):
+
 
 1. **Every partner's workflow visible in one place**, in one shared vocabulary, so we can see what overlaps and what is missing.
 2. **The shared code components understood and executed**.
 3. **All of us working on our projects collectively, at the same time**, feel the group energy and momentum!
 4. **A roadmap for the rest of the project**, with the barriers discussed and overcome together.
 
+
 ## Dates and deadlines
+
 
 | What | When |
 |---|---|
@@ -73,6 +77,7 @@ By the time we meet in Sevilla/Doñana, the PREDICT project has 18 months left a
 | **Be at EBD-CSIC, Sevilla** | <span class="chip">Wednesday 14th October 2026 from 10:45</span> |
 | **Coach departs for Doñana** | <span class="chip">Wednesday 14th October 2026 11:00</span> |
 | End: Coach leaves the Doñana site | <span class="chip">Friday 16th October 2026 14:30</span> |
+
 
 <div class="note" markdown="1">
 <span class="note__label">Booking your travel</span>
