@@ -84,12 +84,16 @@ By the time we meet in Sevilla/Doñana, the PREDICT project has 18 months left a
 The return coach reaches EBD-CSIC, Sevilla at about **16:30**. Please do not book onward travel departing before **19:30**.
 </div>
 
+
 ## What is provided
+
 
 Accommodation for two nights in Doñana national park, the coach in both directions, breakfast, lunch and dinner each day. 
 Claim back your other travel and accommodation expenses to and from Sevilla via the PREDICT distributed budget — see the [FAQ]({{ '/faq/' | relative_url }}) for reimbursements.
 
+
 ## Where to go next
+
 
 - [Before you travel]({{ '/prework/' | relative_url }}) — the technical requirements of your workflow and forms to fill out
 - [Agenda]({{ '/agenda/' | relative_url }}) — a first draft / outline three-day timetable (this may change!)
@@ -102,3 +106,4 @@ Claim back your other travel and accommodation expenses to and from Sevilla via 
 <span class="note__label">One note on format</span>
 This event is **in person only**. Emily joins us online during our 5 min updates to one another, but we are not running the rest hybrid — we do not have the AV setup or the facilitation capacity to do it well, and half-hearted hybrid is worse than none.
 </div>
+
