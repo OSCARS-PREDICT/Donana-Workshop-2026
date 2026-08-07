@@ -50,6 +50,7 @@ Check back here to find full LWE guidance [link will be added TBC]. Here is a hi
 2. Raise ICT ticket to request component repository be set up for you [https://ictdesk.lifewatch.eu/front/helpdesk.public.php].
 
 3. Clone the newly created component repository to your local computer/machine:
+ 
  a. Log into LWE [Gitlab](https://gitlab.lifewatch.dev/), navigate to your new component repo, click Clone > Copy (make a note of the http link path)
  
  b. Set up a local document folder on your computer
@@ -65,11 +66,12 @@ Check back here to find full LWE guidance [link will be added TBC]. Here is a hi
  
  This brings all the LWE necessary metadata file templates onto your local machine. 
 
+
 4. Use file explorer to paste your functioning code/scripts and associated metadata to this same folder.
 
 5. Push your code update back to LWE GitLab on a new (temporary/private) branch off the 'develop' branch named e.g., <code>firstimplement</code>:
  
- a. How to do this with the cmd line:
+  How to do this with the cmd line:
     
     git fetch origin
     
@@ -79,7 +81,7 @@ Check back here to find full LWE guidance [link will be added TBC]. Here is a hi
     
   Creates your 'firstimplement' feature branch off develop (not main)
 
-Next you can stage your new code files using "git add filename.fileformat" - here are some examples:
+  Next you can stage your new code files using "git add filename.fileformat" - here are some examples:
     
     git add README.md        #(README helpful for group understanding of your code)
     git add annotation.json  #(The most important file that explains your code parameters/arguments)
@@ -89,14 +91,14 @@ Next you can stage your new code files using "git add filename.fileformat" - her
     git add entrypoint.sh    #(leave as template if Docker not yet working)
     git status               #(to check status and see what git sees is already there)
 
-Next write your comit message e.g.,:
+  Next write your comit message e.g.,:
     
     git commit -m "feat: add Climate Data Downloader component v0.1.0 (Copernicus CDS + CHELSA)"
-Finally, push to the new feature branch off develop (e.g., firstimplement)
+  Finally, push to the new feature branch off develop (e.g., firstimplement)
     
     git push origin feature/firstimplement
 
-You can view the web version of your code repository in [GitLab](https://gitlab.lifewatch.dev/) to check it all uploaded ok. 
+  You can view the web version of your code repository in [GitLab](https://gitlab.lifewatch.dev/) to check it all uploaded ok. 
 
 **Done means:** your repository is visible to you (with a lock symbol - this means it is not published yet) inside the [LWE workflow components project](https://gitlab.lifewatch.dev/workflows/workflow-components), the pipeline has run at least once locally, and you are ready for LWE support to get fully integrated.
 
@@ -105,16 +107,20 @@ You can view the web version of your code repository in [GitLab](https://gitlab.
 <span class="chip">(Ideally) before October workshop, but not mandatory if you have not worked with Docker before</span>
 
 Eventually, your workflow will need to be able to run the same way on someone else's machine and on LWE infrastructure. 
-That means it needs a container. LWE are working on a new and easier way to make this happen, and guidance will be shared soon.
-We are also running a pre-workshop drop in session(s) in September to help with this.
+That means it needs a container. LWE are working on a new and easier way to make this happen from within R Studio using a new plugin they have just developed.
+You can read their beta guidance [here](https://gitlab.lifewatch.dev/workflows/rstudio-component-builder/-/wikis/home) but note this might change slightly as this method is developed.
+We are also running a pre-workshop drop in session(s) in September to help with all of this.
+For those working outside of R, e.g., python workflows, this still requires the docker image in your component repository. When your repo is first set up, you will receive a template for this.
 
 **What you need**
 
 - A `Dockerfile` at the root of your repository.
 - An image that builds from scratch, on a clean machine, with no manual steps.
 - Your workflow running inside that container and producing the same output as it does on your laptop.
+OR
+- Workflow component(s) set up directly within RStudio which also creates the container from a new LWE plugin (see [guidance](https://gitlab.lifewatch.dev/workflows/rstudio-component-builder/-/wikis/home))
 
-**Starting point** — LWE are writing a technical guidance to help, they also provide templates for starting out and we are running pre-workshop drop-in support sessions.
+**Starting point** — LWE are developing technical guidance to help with both routes, they also provide templates for starting out with either option and we are running pre-workshop drop-in support sessions in September to get you familiar. For now see their beta [Workflow Development Tutorial](https://workdrive.lifewatch.eu/writer/open/6z15b25177891aff849709b20a062d403d855?authId=%7B%22linkId%22%3A%22w6vhXf2unT-lTS6hv%22%7D) which explains the overall process. They are still developing sections after 1 and 2.
 
 
 ## Pre-workshop checklist
@@ -130,7 +136,7 @@ We are also running a pre-workshop drop in session(s) in September to help with 
 <li>You clone your component repository(s) locally to your machine</li>
 <li>Your first working code is copied into your cloned local repository</li>
 <li>Your first code is pushed back into a new "firstimplement" branch (branched from "develop" branch) of the component repository in LWE GitLab</li>
-<li>Ideally: Dockerfile written and image builds from scratch but LWE can help with this if not (come to our drop in session in Septemberm or we follow a workaround)</li>
+<li>Ideally: Dockerfile written and image builds from scratch but LWE can help with this if not (come to our drop in session in September or we follow a beta workaround in RStudio)</li>
 <li>Laptop packed, along with its charger and adaptor if needed, brain in gear ready to share, collaborate and get stuff done</li>
 </ul>
 

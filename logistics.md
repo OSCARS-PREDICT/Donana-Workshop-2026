@@ -11,8 +11,15 @@ footer_alt: "Dragonfly in Doñana"
 ## Meeting point
 Please arrive at our offices in Sevilla from 10:45 on Wednesday 14th October 2026 ready for 11:00 coach departure.
 Full address: CSIC: Doñana Biological Station, Building I, Cartuja TA-10, Edificio I, Calle Américo Vespucio, s/n, 41092 Sevilla, Spain
+
 Please also see [Google map pin](https://maps.app.goo.gl/LVze8CcKFi8Bquhh9).
+
 What3words for our building/meeting point [here](https://what3words.com/desk.bracelet.intervals).
+
+## Travelling to Sevilla from outside of Spain (most of you!)
+Some of you are coming from different places across Europe and may need to take a flight. The two closest airports to our meeting point in Sevilla are:
+- Sevilla Airport (located 10 km east of Sevilla city centre, with an airport bus to get in and out of the city, set at 6 EUR). More info on Sevilla buses [here](https://visit-seville.com/seville-bus-guide/).
+- Jerez Airport (a smaller, but functional airport located on the train line between Sevilla and Cádiz, 1 hr by train from Sevilla. Can book with [https://www.renfe.com/es/en](https://www.renfe.com/es/en))
 
 ## Getting there
 **We are providing transport to get us all from Sevilla to Doñana where our workshop will take place. 
@@ -27,7 +34,7 @@ Delayed? Call or message **Emma** as soon as you know. We also advise downloadin
 
 **The journey.** About 1h45 - 2 hours each way, we will be providing transport to and from Doñana. We do not plan a comfort stop en route. 
 
-**Getting back.** The return transport leaves the site by **14:30 on Friday 16th October 2026** and reaches our EBD-CSIC offices at about **16:30**. Traffic on this route is unpredictable — please do not book onward travel departing before **19:30**.
+**Getting back.** The return transport leaves the site by **14:30 on Friday 16th October 2026** and reaches our EBD-CSIC offices at about **16:30**. Traffic on this route is unpredictable — we do not advise to book flights departing from Sevilla or Jerez before **19:30**.
 
 **Arriving the night before.** Most of you will need to, depending on your starting location. Please keep receipts for your hotel and this can be claimed through the PREDICT budget for PREDICT partners. The nearest hotel option to the CSIC building meeting point is [Canvas world](https://www.canvas-world.com/en/locations/spain/sevilla/lago) where you can book a short-term one-person apartment (from 116 EUR / night). Or there are plenty of options in Sevilla itself.
 There is an optional informal dinner at **Mano de Santo** in Sevilla from 20:15 on Tuesday 13th October 2026 — no agenda, just a chilled dinner for anyone who has arrived by then.
@@ -39,12 +46,12 @@ We would like to minimise this as much as possible, although we understand life 
 
 **Reserva Biológica de Doñana (RBD) / Doñana Biological Reserve (RBD)** See [our location](https://what3words.com/heroics.documenting.positivity) inside Parque Nacional de Doñana / National Park of Doñana, which covers a large area of wetland (6,794 Ha). This is state-owned and managed by EBD-CSIC. EBD-CSIC coordinates research inside this area, and this part is non-public. Our workshop is a great opportunity to explore this beautiful habitat and wildlife. 
 The wider Doñana Natural Area (National Park and Natural Park since 1978) is over 120,000 Ha.
-[See more info about the Park here](https://www.ciencia.gob.es/en/Organismos-y-Centros/ICTS/CienciasMar/RBD.html)
+[See more info about the Park here](https://www.ciencia.gob.es/en/Organismos-y-Centros/ICTS/CienciasMar/RBD.html).
 
 | | |
 |---|---|
 | Rooms | Two people per room with en-suite bathroom (split by gender) |
-| Towels and linen | these are provided, bring your own toiletries though |
+| Towels and linen | Towels and bed linen are provided, but please bring your own toiletries |
 | Temperature | Pack appropriately day times can be hot, but nights can drop to about 10°C in October |
 | Luggage | Rooms vacated by 09:30; storage onsite until the coach arrives |
 | Nearest shop | Matalascañas - but not accessible from our location in the park without a vehicle |
@@ -57,16 +64,16 @@ Everything is provided for the duration:
 - **Lunch and dinner** — provided by a catering team.
 - **Water, coffee and tea** we will make sure it is available throughout. :) 
 
-**Dietary requirements and allergies** go in the [form](https://ee.kobotoolbox.org/x/8be7qdKo) by <span class="chip chip--quiet">(submit by Monday 31 August 2026)</span>. Please state allergies explicitly and separately from preferences. We must give the catering team time to prepare this ahead of the workshop.
+**Dietary requirements and allergies** go in the [form](https://ee.kobotoolbox.org/x/8be7qdKo) by <span class="chip chip--quiet">(Monday 31 August 2026)</span>. Please state allergies explicitly and separately from preferences. We must give the catering team time to prepare this ahead of the workshop.
 
 ## What to bring
 
-October in the Doñana area means warm / hot days with an average of ~20°C (10 - 30°C) with roughly 11 hrs of daylight, cooler mornings and evenings, strong sun, and a chance of wind (~4m/s) or rain (~2mm/day). Averages taken from [moriatlas](https://www.moriatlas.com/en/park/donana-national-park/climate).
+October in the Doñana area means warm / hot days with an average of ~20°C (10 - 30°C) with roughly 11 hrs of daylight, cooler mornings and evenings, strong sun, and a chance of wind (~4m/s) or rain (~2mm/day). (Averages taken from [moriatlas](https://www.moriatlas.com/en/park/donana-national-park/climate)).
 
 ### Essential
 
 <ul class="check">
-<li><strong>Laptop and charger</strong> — with all the pre-requisites completed ahead of the workshop (see prework)</li>
+<li><strong>Laptop and charger</strong> — with all the pre-requisites completed ahead of the workshop (see **Before you travel**)</li>
 <li><strong>EU plug adapter</strong> — Spain uses Type F/C, 230 V.</li>
 <li><strong>Comfortable closed walking shoes or light boots</strong> — trails are sandy, uneven, sometimes muddy. Sandals not recommended for the field sessions</li>
 <li><strong>Layers</strong> — a t-shirt at midday and a fleece at 08:00 on the same day is normal</li>

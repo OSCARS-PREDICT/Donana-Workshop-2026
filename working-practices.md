@@ -10,7 +10,7 @@ footer_alt: "Moth in Doñana"
 
 ## One home, not five
 
-The commonest way a project like ours falls apart is due to 'tool sprawl': notes in a document, decisions in chat, actions in someone's notebook, code somewhere else. By November, nobody knows where the truth is.
+The commonest way a project like ours falls apart is due to 'tool sprawl': notes in a document, decisions in chat, actions in someone's notebook, code somewhere else.
 That is not how we want to run things in PREDICT. Here is the structure we will aim to follow for the workshop and beyond:
 
 | Layer | Where | Rule |

@@ -55,9 +55,17 @@ The easiest way is to try and make sure you have the same credentials across all
 * the chat room is still very new, and in beta mode as an open-source/free version chat space, a bit like Slack. Just message Emma if you are having issues and she will liaise and feedback to LWE.
 Make sure to note down and keep safe your verification code so you do not lose your chat history if you are in an unverified session (for example, if you use more than one device).
 
+**What even is a component anyway?**
+
+Take a look at the new LWE guidance document which nicely explains with examples how your workflow should be broken down into individual re-usable components.
+Focus on the first section (1.1 - 1.7 only) as section 2 is still being drafted.
+[Hands-on tutorial for workflow development](https://workdrive.lifewatch.eu/writer/open/6z15b25177891aff849709b20a062d403d855?authId=%7B%22linkId%22%3A%22w6vhXf2unT-lTS6hv%22%7D).
+
 **What if I can't get the Docker part working?**
 
-We've got you! We are organising a set of pre-workshop online drop-in sessions for you to ask questions, and receive support, TBC early September, date and link to join via email. LWE will be on hand to help!
+We've got you! For those of you working in R/R Studio, LWE are developing an alternative pathway to build your component(s) directly in R using a new plugin they just developed (kudos to LWE!).
+They are welcoming feedback on this first beta version. Draft tutorial [here](https://gitlab.lifewatch.dev/workflows/rstudio-component-builder/-/wikis/home).
+In addition, we are organising a set of pre-workshop online drop-in sessions for you to ask questions, and receive support, TBC early September, date and link to join via email. LWE will be on hand to help!
 
 **My institution/hardware limitations won't let me install Docker**
 

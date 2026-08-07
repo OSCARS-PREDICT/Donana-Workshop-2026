@@ -6,7 +6,7 @@ layout: default
 permalink: /
 title: "PREDICT: 3-day workshop in Doñana"
 eyebrow: "14-16 October 2026 - Doñana, Spain"
-standfirst: "Our first in-person workshop. Everything you need to arrive prepared is on this site — and the three things you must have working before you travel too."
+standfirst: "Our first in-person workshop. Everything you need to arrive prepared is on this site — and the three things you must have working before you travel."
 ---
 
 ## What you must have ready before you travel
@@ -35,7 +35,7 @@ Our workshop is hands-on and technical. It only works if you have some kind of f
   <div class="req-item">
     <div>
       <h3>Docker container</h3>
-      <p>A <code>Dockerfile</code> in your repository, an image that builds from scratch, and your workflow running inside the container. Right now, this is a nice to have as not everyone is familar, and LWE are making this part easier for us (watch this space). </p>
+      <p>A <code>Dockerfile</code> in your repository, an image that builds from scratch, and your workflow running inside the container. Right now, this is a nice to have as not everyone is familar, and LWE are making this part easier for us if your workflow is built in R (see section [Before you travel](https://oscars-predict.github.io/Donana-Workshop-2026/prework/)). </p>
     </div>
   </div>
 <div class="req-item">
