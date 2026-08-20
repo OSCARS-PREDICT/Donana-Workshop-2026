@@ -19,9 +19,12 @@ For the workshop, this should be a subset of your data (especially if your study
 
 **What "functional" means**
 
-- Paths to example data are relative based on <code>./mnt/inputs/</code> and <code>./mnt/outputs/<code> to mimic being integrated in LifeWatch ERIC (LWE)
-- Parameters are coded as <code>arguments<code> (imagine everything is a function, rather than hard-coded)
-- Inputs are a <code>small subset<code> of your study
+- Paths to example data are relative based on <code>./mnt/inputs/</code> and <code>./mnt/outputs/</code> 
+to mimic being integrated in LifeWatch ERIC (LWE)
+- Parameters are coded as <code>arguments</code> 
+(imagine everything is a function, rather than hard-coded)
+- Inputs are a <code>small subset</code> 
+of your study
 - It writes outputs to disk in a documented format, e.g., <code>.OMX</code> or other open standard
 - Includes a short <code>.txt file</code> indicating all installations, packages and versions required
 - Component annotation metadata file created <code>.json file</code> see [https://gitlab.lifewatch.dev/workflows/legacy-component-metadata/-/blob/main/annotation-schema.json?ref_type=heads]
@@ -32,14 +35,14 @@ For the workshop, this should be a subset of your data (especially if your study
 Elegant, final, or scientifically finished.
 Just think first version/first implementation. 
 This stays private to us, and will not be published yet. 
-We will be pushing to the 'develop' branch which is closed/only visible by us.
+We will be pushing to the <code>develop</code> branch which is closed/only visible by us.
 
 
 ### 2. Your first push to LWE via GitLab
 
 <span class="chip">before you leave for the workshop</span>
 
-Push your first version code to the LWE GitLab (branched off the 'develop' branch - not 'main'!) to show work in progress, version control, and create our shared working area.
+Push your first version code to the LWE GitLab (branched off the <code>develop</code> branch - not <code>main</code!) to show work in progress, version control, and create our shared working area.
 This leaves the workshop clear for collaborative coding sessions, and pathway to full LWE integration.
 
 **Steps**
@@ -47,25 +50,24 @@ This leaves the workshop clear for collaborative coding sessions, and pathway to
 Check back here to find full LWE guidance [link will be added TBC]. Here is a high-level summary:
 1. Confirm set up on all LWE systems (you can arrange meeting with Emma & LWE to discuss your workflow diagram/ideas, component requirements and dependencies).
 
-2. Raise ICT ticket to request component repository be set up for you [https://ictdesk.lifewatch.eu/front/helpdesk.public.php].
+2. Raise a [LWE ICT ticket](https://ictdesk.lifewatch.eu/front/helpdesk.public.php) to request component repository be set up for you.
 
 3. Clone the newly created component repository to your local computer/machine:
  
- a. Log into LWE [Gitlab](https://gitlab.lifewatch.dev/), navigate to your new component repo, click Clone > Copy (make a note of the http link path)
+  a. Log into LWE [Gitlab](https://gitlab.lifewatch.dev/), navigate to your new component repo, click Clone > Copy (make a note of the http link path)
  
- b. Set up a local document folder on your computer
+  b. Set up a local document folder on your computer
  
- c. Navigate to that local folder within your computer's Command Prompt app (cmd line) using the 'cd' command N.B. File paths on Windows machines use forward slash (/), Apple MAC use back slash (\) Emma's example:  
+  c. Navigate to that local folder within your computer's Command Prompt app (cmd line) using the 'cd' command N.B. File paths on Windows machines use forward slash (/), Apple MAC use back slash (\) Emma's example:  
     
     cd .\Documents\PREDICT\LWE
     
- d. Use the cmd line, and the http link copied from your GitLab component page to clone the repository onto your machine, for e.g., (make sure to replace "EcologicalForecastingEvaluator" with your actual component name!)
+  d. Use the cmd line, and the http link copied from your GitLab component page to clone the repository onto your machine, for e.g., (make sure to replace "EcologicalForecastingEvaluator" with your actual component name!)
     
     git clone https://gitlab.lifewatch.dev/workflows/workflow-components/EcologicalForecastingEvaluator.git
   
  
  This brings all the LWE necessary metadata file templates onto your local machine. 
-
 
 4. Use file explorer to paste your functioning code/scripts and associated metadata to this same folder.
 
@@ -126,8 +128,8 @@ OR
 ## Pre-workshop checklist
 
 <ul class="check">
-<li>Your LWE account GitLab account active (https://gitlab.lifewatch.dev/)</li> 
-<li>Your initial workflow diagram ready, with individual components planned, first meeting/discussion with LWE completed</li>
+<li>Your LWE account [GitLab](https://gitlab.lifewatch.dev/) account active </li> 
+<li>Your initial workflow diagram ready, saved to our [shared folder](https://drive.google.com/drive/folders/1GLcvIkOvdZeHQf9LtxC9K0jMTLYf_ztO), with individual components planned, first meeting/discussion with LWE completed</li>
 <li>Your script parameters are clearly defined, and set up as arguments in your code</li>
 <li>Your workflow components run locally with a small subset of data</li>
 <li>Your annotation schema is created (.Json file). This is your component metadata - must match the arguments expected in the [LWE template](https://gitlab.lifewatch.dev/workflows/legacy-component-metadata/-/blob/main/annotation-schema.json?ref_type=heads)</li>
@@ -136,7 +138,7 @@ OR
 <li>You clone your component repository(s) locally to your machine</li>
 <li>Your first working code is copied into your cloned local repository</li>
 <li>Your first code is pushed back into a new "firstimplement" branch (branched from "develop" branch) of the component repository in LWE GitLab</li>
-<li>Ideally: Dockerfile written and image builds from scratch but LWE can help with this if not (come to our drop in session in September or we follow a beta workaround in RStudio)</li>
+<li>*Ideally*: Dockerfile written and image builds from scratch but LWE can help with this if not (come to our drop in session in September or we follow a beta workaround in RStudio)</li>
 <li>Laptop packed, along with its charger and adaptor if needed, brain in gear ready to share, collaborate and get stuff done</li>
 </ul>
 
@@ -175,12 +177,16 @@ No formal introduction needed, no results slides. If you have done the pre-works
 #### Dietary info
 
 Any allergies or intolerances, which meals you will be present for, so we can update the catering team.
-<span class="chip chip--quiet">Submitted by Monday 31st August 2026</span> — [Fill out here](https://ee.kobotoolbox.org/x/8be7qdKo)
+<span class="chip chip--quiet"
+>Submitted by Monday 31st August 2026</span>
+[Fill out here](https://ee.kobotoolbox.org/x/8be7qdKo)
 
 
 #### Travel details
 
-<span class="chip chip--quiet">Submitted by Monday 31st August 2026</span> — [Fill out here](https://ee.kobotoolbox.org/x/hydbfNID)
+<span class="chip chip--quiet"
+>Submitted by Monday 31st August 2026</span>
+[Fill out here](https://ee.kobotoolbox.org/x/hydbfNID)
 
 Arrival time in Sevilla, flight or train number, and a mobile number we can reach you on during travel day.
 Even better, download the LWE chat app onto your phone and saves sharing personal info. See FAQ for help.

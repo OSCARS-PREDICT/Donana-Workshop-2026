@@ -97,7 +97,7 @@ Coach will leave from outside EBD at 11:00. Full details on [Travel and kit]({{ 
 
 **What if my flight is delayed and I miss the coach?**
 
-Always a possibility if flying same day. No worries, these things are out of our control. Just message Emma as soon as you know to let the group to go ahead without you. We will help you work out the route between Sevilla and , but you will need to make your own way to the site — about €100 by taxi. Keep the receipt and we can work out reimbursement later. Cheaper but less flexible alternative: Take a Bus (L-218 Pueblos) from Sevilla to El Rocío and we can arrange pick up from there into the wetland.
+Always a possibility if flying same day. No worries, these things are out of our control. Just message Emma as soon as you know to let the group to go ahead without you. We will help you work out the route between Sevilla and Doñana, but you will need to make your own way to the site (~ €100 by taxi). Keep the receipt and we can work out reimbursement later. Cheaper but less flexible alternative: Take a Bus (L-218 Pueblos) from Sevilla to El Rocío and we can arrange pick up from there into the wetland.
 Sevilla bus station is: Estación de Autobuses Plaza de Armas - [what3words](https://what3words.com/wiggly.park.quality) / [Google](https://maps.app.goo.gl/btQzg91yba3DxWJD8). These only run a few times per day, so may not be so helpful.
 
 **Should I arrive in Sevilla the night before?**
@@ -114,8 +114,8 @@ Accommodation and catering are booked for registered participants only and the s
 
 **Can I drive all or part the way instead?**
 
-You are welcome to drive to the Sevilla meeting point and park for free in the outdoor parking lot behind our office buildings: [What3words](https://what3words.com/sings.enacted.quantity) / [Google](https://maps.app.goo.gl/3wXWp6yarsVtgW52A)
-It is preferred if we all arrive together by coach into the park to easily count people in and out at the gatehouse. Personal vehicles inside the park boundary might not be permitted, but speak to us and make us aware of your plans by filling out the [travel/arrival form](https://ee.kobotoolbox.org/x/vMj7Shfl) and can overcome most things together with a little notice.
+You are welcome to drive to the Sevilla meeting point and park for free in the outdoor parking lot behind our office buildings: [What3words](https://what3words.com/sings.enacted.quantity) / [Google](https://maps.app.goo.gl/3wXWp6yarsVtgW52A).
+It is preferred if we all arrive together by coach into the park to easily count people in and out at the gatehouse. Personal vehicles inside the park boundary might not be permitted, but speak to us and make us aware of your plans by filling out the [travel/arrival form](https://ee.kobotoolbox.org/x/vMj7Shfl) and we can overcome most things together with a little notice.
 
 **How do I contact individuals or the whole group?**
 
@@ -177,7 +177,8 @@ A written synthesis within 10 working days with decisions, actions, roadmap, and
 
 **When is the next in-person meeting?**
 
-To be agreed by the end of our workshop, a date pencilled in. We may have enough spare funds 
+To be agreed by the end of our workshop, a date pencilled in. We may have enough spare funds to run a second workshop during the project, location-date TBC.
+The final meeting will take place in Brussels when the project closes in 2028.
 
 ---
 
