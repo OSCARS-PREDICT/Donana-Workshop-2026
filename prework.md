@@ -179,6 +179,7 @@ No formal introduction needed, no results slides. If you have done the pre-works
 Any allergies or intolerances, which meals you will be present for, so we can update the catering team.
 <span class="chip chip--quiet"
 >Submitted by Monday 31st August 2026</span>
+
 [Fill out here](https://ee.kobotoolbox.org/x/8be7qdKo)
 
 
@@ -186,6 +187,7 @@ Any allergies or intolerances, which meals you will be present for, so we can up
 
 <span class="chip chip--quiet"
 >Submitted by Monday 31st August 2026</span>
+
 [Fill out here](https://ee.kobotoolbox.org/x/hydbfNID)
 
 Arrival time in Sevilla, flight or train number, and a mobile number we can reach you on during travel day.
