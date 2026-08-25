@@ -174,10 +174,13 @@ You will present these when we arrive in Doñana. Five minute updates, three sli
 No formal introduction needed, no results slides. If you have done the pre-workshop technical requirements above, these slides are mostly screenshots and should not take long to put together.
 
 ### 3. Organisational forms to fill out (travel info, dietary requirements)
+
 #### Dietary info
 
 Any allergies or intolerances, which meals you will be present for, so we can update the catering team.
 <span class="chip chip--quiet"
+
+
 >Submitted by Monday 31st August 2026</span>
 
 [Fill out here](https://ee.kobotoolbox.org/x/8be7qdKo)
@@ -186,6 +189,7 @@ Any allergies or intolerances, which meals you will be present for, so we can up
 #### Travel details
 
 <span class="chip chip--quiet"
+
 >Submitted by Monday 31st August 2026</span>
 
 [Fill out here](https://ee.kobotoolbox.org/x/hydbfNID)
