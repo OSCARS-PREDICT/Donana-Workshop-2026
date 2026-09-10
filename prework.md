@@ -47,7 +47,9 @@ This leaves the workshop clear for collaborative coding sessions, and pathway to
 
 **Steps**
 
-Check back here to find full LWE guidance [link will be added TBC]. Here is a high-level summary:
+You can find full guidance for building components in the LWE wiki [here](https://gitlab.lifewatch.dev/workflows/rstudio-component-builder/-/wikis/home). 
+In addition, below is a high-level summary:
+
 1. Confirm set up on all LWE systems (you can arrange meeting with Emma & LWE to discuss your workflow diagram/ideas, component requirements and dependencies).
 
 2. Raise a [LWE ICT ticket](https://ictdesk.lifewatch.eu/front/helpdesk.public.php) to request component repository be set up for you.
@@ -110,7 +112,7 @@ Check back here to find full LWE guidance [link will be added TBC]. Here is a hi
 
 Eventually, your workflow will need to be able to run the same way on someone else's machine and on LWE infrastructure. 
 That means it needs a container. LWE are working on a new and easier way to make this happen from within R Studio using a new plugin they have just developed.
-You can read their beta guidance [here](https://gitlab.lifewatch.dev/workflows/rstudio-component-builder/-/wikis/home) but note this might change slightly as this method is developed.
+You can read their guidance [here](https://gitlab.lifewatch.dev/workflows/rstudio-component-builder/-/wikis/home) but note this might change slightly as this method is developed.
 We are also running a pre-workshop drop in session(s) in September to help with all of this.
 For those working outside of R, e.g., python workflows, this still requires the docker image in your component repository. When your repo is first set up, you will receive a template for this.
 
@@ -146,7 +148,7 @@ OR
 
 Understandable! Please do not go quiet or get put off by the more technical elements. Two routes, both fine to use as often as you need:
 
-- **Drop-in session(s)** - September TBC with LWE Engineers on hand to help. No agenda, no preparation. Bring whatever is broken/not running and we can help.
+- **Drop-in session(s)** - September 14th (11-1 CEST) and 17th (10-12 CEST) with LWE Engineers on hand to help. No agenda, no preparation. Bring whatever is broken/not running and we can help.
 - **Open an issue** - Raise a ticket with [LWE ICT Helpdesk](https://ictdesk.lifewatch.eu/). You have to be registered, any issues speak to Emma.
 
 The **Monday 12th October** deadline for your first code push is real, please respect it.

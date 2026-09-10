@@ -63,9 +63,15 @@ Focus on the first section (1.1 - 1.7 only) as section 2 is still being drafted.
 
 **What if I can't get the Docker part working?**
 
-We've got you! For those of you working in R/R Studio, LWE are developing an alternative pathway to build your component(s) directly in R using a new plugin they just developed (kudos to LWE!).
-They are welcoming feedback on this first beta version. Draft tutorial [here](https://gitlab.lifewatch.dev/workflows/rstudio-component-builder/-/wikis/home).
-In addition, we are organising a set of pre-workshop online drop-in sessions for you to ask questions, and receive support, TBC early September, date and link to join via email. LWE will be on hand to help!
+We've got you! For those of you working in R/R Studio, LWE have developed an alternative pathway to build your component(s) directly in R using a new plugin (kudos to LWE!).
+They are welcoming feedback on this first beta version. Tutorial [here](https://gitlab.lifewatch.dev/workflows/rstudio-component-builder/-/wikis/home).
+In addition, we have organised a set of pre-workshop online drop-in sessions for you to ask questions, and receive support:
+
+Monday 14 September 11-1
+Thursday 17 September 10-12
+
+Links to join have been sent via email.
+LWE will be on hand to help!
 
 **My institution/hardware limitations won't let me install Docker**
 
@@ -86,7 +92,7 @@ Correct, and we are. It is Emma's job to tease out overlapping coding efforts an
 **Do I really need to do all pre-work technical parts before travelling?**
 
 Yes, or tell us why you can't. The alternative is spending the technical day watching other people work and not progressing your own workflow which would be a waste of your time.
-Anything relating to Docker can be left if you are not comfortable using Docker, LWE are developing a more user-friendly way to containerise your workflow, so watch this space!
+Anything relating to Docker can be left if you are not comfortable using Docker yet, this will be covered in the technical sessions pre-workshop and during.
 
 ## Travel
 
