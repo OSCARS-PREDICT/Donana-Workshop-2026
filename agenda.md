@@ -1,7 +1,7 @@
 ---
-  layout: default
+layout: default
 permalink: /agenda/
-  title: "Agenda"
+title: "Agenda"
 eyebrow: "PREDICT: 3-day workshop in Doñana"
 footer_image: /assets/img/stork.jpg
 footer_alt: "White stork in Doñana"
