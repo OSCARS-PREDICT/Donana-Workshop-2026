@@ -26,8 +26,7 @@ No. The dawn walks and bird watching sessions sit outside the working programme 
 
 **Is any of it hybrid?**
 
-No, not really. Emily will be joining online for a co-presentation with Billur who will be in the room, then logging off. The rest is in person only. 
-We do not have confidence in the AV setup or the facilitation capacity for three days of good hybrid, and half-hearted hybrid is worse than none! 
+No, unfortunately. We are staying in an active field station/reserve with limited AV setup or the facilitation capacity for three days of good hybrid, and half-hearted hybrid is worse than none! 
 All notes will be collated, synthesised and shared among the group so actions and outcomes are clear.
 
 **What language will it be in?**
@@ -93,6 +92,10 @@ Correct, and we are. It is Emma's job to tease out overlapping coding efforts an
 
 Yes, or tell us why you can't. The alternative is spending the technical day watching other people work and not progressing your own workflow which would be a waste of your time.
 Anything relating to Docker can be left if you are not comfortable using Docker yet, this will be covered in the technical sessions pre-workshop and during.
+
+**What is in it for us as researchers?**
+These workflows will open up access and engagement with your research to beyond just researchers, giving access to non-coding stakeholders, for example. This is really important to make sure our forecasts are actually used and helpful to others.
+Being a part of LWE as a RI, we are getting maintainance support which future proofs our efforts today.
 
 ## Travel
 

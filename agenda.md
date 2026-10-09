@@ -5,15 +5,15 @@ title: "Agenda"
 eyebrow: "PREDICT: 3-day workshop in Doñana"
 footer_image: /assets/img/stork.jpg
 footer_alt: "White stork in Doñana"
-standfirst: "A more detailed agenda. The coach arrival and departure times are fixed/planned, but everything else has some give in it and planned sessions can be edited. Each working session lists its aim, activity and outcome."
+standfirst: "A more detailed agenda. The coach times are fixed/planned, but everything else has some give in it. Each working session lists an aim, activity and outcome."
 ---
 
-This is a working retreat-type environment, and several sessions will happen on foot. Come ready to share your updates, integrate with the team, progress our shared and your specific code components, and put your name against actions with dates on them so we hold each other accountable.
+This is a working retreat-type environment, and several sessions can happen on foot. Come ready to share your updates, integrate with the team, progress our shared and your specific code components, and put your name against actions with dates on them so we hold each other accountable.
 
 Thanks to all of you for bringing this collaboration to life, Emma & Maria
 
 <h2 class="tt-day">Day 1 — Wednesday 14th October 2026</h2>
-<p class="tt-theme">Arrive, meet and get to know, project updates</p>
+<p class="tt-theme">Arrive, get to know, project updates</p>
 
 <div class="tt">
   <div class="tt-row">
@@ -30,43 +30,43 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row">
     <div class="tt-time">11:30</div>
-    <div class="tt-body"><h4>On the coach, we will attempt paired introductions</h4><p><strong>Aim.</strong> Start putting names to faces before we arrive.</p><p><strong>Activity.</strong> We swap answers to prompts, then introduce each other at a later point.</p><p><strong>Outcome.</strong> Everyone has spoken properly with at least one person they didn't know.</p></div>
+    <div class="tt-body"><h4>On the coach, in pairs</h4><p><strong>Aim.</strong> Start putting names to faces before we arrive.</p><p><strong>Activity.</strong> We swap answers to prompts, then introduce each other at a later point.</p><p><strong>Outcome.</strong> Everyone has spoken properly with at least one person they didn't know.</p></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">13:00</div>
-    <div class="tt-body"><h4>Arrive at el Chalet, room allocation, drop bags, site orientation, comfort break. This also overlaps with Emily Simmonds and Vicky Boult's EEFI Seminar (EEFI's First Working Group: Rethinking success and quality in ecological forecasting @ 13:00 CEST). Maria will try to stream this session as we arrive.</h4></div>
+    <div class="tt-body"><h4>Arrive at el Chalet (main accommodation), room allocation, drop bags. </p><p><strong>EFI Seminar.</strong> (EEFI's First Working Group: Rethinking success and quality in ecological forecasting @ 13:00 CEST). Maria will try stream this for us.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">13:30</div>
-    <div class="tt-body"><h4>Lunch in el Chalet (our accommodation) + welcome</h4><p><strong>Aim.</strong> A mini ice-breaker over food.</p><p><strong>Activity.</strong> "Two truths and a lie: fieldwork edition."</p><p><strong>Outcome.</strong> Team bonding!</p></div>
+    <div class="tt-body"><h4>(El Chalet) Lunch</h4><p><strong>Aim.</strong> A mini ice-breaker over food.</p><p><strong>Activity.</strong> "Two truths and a lie: fieldwork edition."</p><p><strong>Outcome.</strong> Team bonding!</p></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">14:30</div>
-    <div class="tt-body"><h4>El Labratorio de Luis Antonio Bolín (Bolín meeting room): Welcome to Doñana from Maria</h4><p><strong>Aim.</strong> Where we are and why it matters.</p><p><strong>Activity.</strong> A short talk from Maria, while sitting in Doñana -- a bit about the place, the existing research, and how PREDICT fits in.</p><p><strong>Outcome.</strong> Understanding place and purpose before our work begins.</p></div>
+    <div class="tt-body"><h4>El Labratorio de Luis Antonio Bolín (Bolín): Welcome to Doñana</h4><p><strong>Aim.</strong> Where we are and why it matters.</p><p><strong>Activity.</strong> A short talk from Maria showcasing existing research in Doñana, and how PREDICT fits in.</p><p><strong>Outcome.</strong> Understanding place and purpose before our work begins.</p></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">14:45</div>
-    <div class="tt-body"><h4>(Bolín) PREDICT opener: A where we are at -- Emma</h4><p><strong>Aim.</strong> An honest, shared baseline of the project.</p><p><strong>Activity.</strong> Deliverables and 18-month aims, what is done and what has slipped, then the floor is open.</p><p><strong>Outcome.</strong> Everyone leaves with the same picture of where PREDICT stands.</p></div>
+    <div class="tt-body"><h4>(Bolín) PREDICT opener: Emma</h4><p><strong>Aim.</strong> A baseline of the project.</p><p><strong>Activity.</strong> Deliverables and aims, what is the hope for the workshop, answer questions.</p><p><strong>Outcome.</strong> Everyone is on the same page of where we are with PREDICT.</p></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">15:05</div>
-    <div class="tt-body"><h4>(Bolín) From Forecasts to Decisions: Operationalising User-Centred Ecological Forecasting -- Melina (interactive)</h4><p><strong>Aim.</strong> Put stakeholder use, feedback and usability at the centre <em>before</em> we talk code — not as a bolt-on, but the reason any of these forecasts get used.</p><p><strong>Activity.</strong> Melina presents trends from the pre-workshop survey, then runs an interactive exercise mapping a workflow users and use cases. A good chunk of time is set aside for this.</p><p><strong>Outcome.</strong> A shared usability lens we carry into the workflow round, the wall tonight, and subgroups tomorrow.</p></div>
+    <div class="tt-body"><h4>(Bolín) "From Forecasts to Decisions: Operationalising User-Centred Ecological Forecasting" by Melina (interactive)</h4><p><strong>Aim.</strong> Put stakeholder use, feedback and usability at the centre <em>before</em> we move into the code. This is not a bolt-on, but the framing behind how our forecasts get used.</p><p><strong>Activity.</strong> Melina presents trends from the pre-workshop survey, then an interactive exercise mapping workflow users and use cases. A good chunk of time is set aside for this.</p><p><strong>Outcome.</strong> A shared usability lens we carry into developing the workflows, the component wall, and subgroups we create.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">16:35</div>
-    <div class="tt-body"><h4>Break — outdoors</h4></div>
+    <div class="tt-body"><h4>Break: in or outdoors</h4></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">16:50</div>
-    <div class="tt-body"><h4>(Bolín) Lightning round: "My workflow in 5 minutes"</h4><p><strong>Aim.</strong> See every partner's workflow.</p><p><strong>Activity.</strong> Every case study leader presents three slides, five minutes. Submitted to the case study mapping folder by Monday 12th Oct so Emma can harmonise slides.</p><p><strong>Outcome.</strong> A common view of what we each run, understanding inputs, outputs and common ground, and the basis for the component wall.</p></div>
+    <div class="tt-body"><h4>(Bolín) Lightning round: "My workflow in 5 minutes"</h4><p><strong>Aim.</strong> Everyone sees each partner's workflow.</p><p><strong>Activity.</strong> Each case study presents three slides, five minutes. Submitted to the case study mapping folder by Monday 12th Oct so Emma can harmonise slides.</p><p><strong>Outcome.</strong> A common view of what we each run, understanding inputs, outputs and common ground, and the basis for the component wall.</p></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">18:00</div>
-    <div class="tt-body"><h4>(Place TBC) The PREDICT component wall</h4><p><strong>Aim.</strong> Find the overlaps, gaps and format clashes across all our workflows.</p><p><strong>Activity.</strong> Pin every component to one wall, from data in to delivery, plus a row for stakeholder use cases: who needs each output and how they'll use it.</p><p><strong>Outcome.</strong> A photographed map of the whole pipeline and a written list of actions to resolve.</p></div>
+    <div class="tt-body"><h4>The PREDICT component wall</h4><p><strong>Aim.</strong> Map our workflows visually, identify the overlaps (shared components), gaps, and agree standardised formats.</p><p><strong>Activity.</strong> Draw and tape every component to the wall, from data in to delivery, plus a row for stakeholder use cases: who is the output for, and how will they use it.</p><p><strong>Outcome.</strong> A photo/map of the whole shared pipeline components and a written list of actions to progress & resolve.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">18:55</div>
-    <div class="tt-body"><h4>Free — or the golden-hour walk (on foot)</h4><p>A chance to observe the wetland's inhabitants and migrating visitors on foot from the lodge.</p></div>
+    <div class="tt-body"><h4>Free or a walk (on foot)</h4><p>A chance to observe the wetland's inhabitants and migrating visitors on foot in and around the Palacio area.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">20:00</div>
@@ -74,7 +74,7 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">21:15</div>
-    <div class="tt-body"><h4>(Place TBC) Finish off our component wall / digitise the day / down time</h4></div>
+    <div class="tt-body"><h4>Finish off our component wall / digitise the day / down time</h4></div>
   </div>
 </div>
 
@@ -83,8 +83,8 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
 
 <div class="tt">
   <div class="tt-row is-soft">
-    <div class="tt-time">07:45</div>
-    <div class="tt-body"><h4>Optional dawn walk (on foot)</h4><p>Choose pairs evening before. Sunrise is around 08:15. Or quiet time in the wetland (currently dry) observatory (binos and a telescope are in there).</p></div>
+    <div class="tt-time">08:00</div>
+    <div class="tt-body"><h4>Optional dawn wander (on foot)</h4><p>Choose pairs evening before. Sunrise is 08:30. The Bolín wetland observatory (currently dry so may not see much) has binos and a telescope if you prefer inside viewing.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">08:30</div>
@@ -92,23 +92,23 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row">
     <div class="tt-time">09:15</div>
-    <div class="tt-body"><h4>(Bolín) LWE Team arrival & group photo</h4><p>Taken today because this is the one day every one of us is on site. Weather permitting, outside by the observatory.</p></div>
+    <div class="tt-body"><h4>(Bolín) LWE team arrival & PREDICT group photo</h4><p>The one day everyone is on site. Weather permitting, outside.</p></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">09:30</div>
-    <div class="tt-body"><h4>(Bolín) Technical day framing & component wall recap</h4><p>A quick look back at last night's wall and what it means for the technical integration work.</p></div>
+    <div class="tt-body"><h4>(Bolín) Technical day framing & component wall recap</h4><p>A recap of outcomes of component wall - decide the technical priorities.</p></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">09:45</div>
-    <div class="tt-body"><h4>(Bolín) LWE live integration walkthrough</h4><p><strong>Aim.</strong> It means everyone can actually integrate, not just watch.</p><p><strong>Activity.</strong> Hands on keyboards, led by the LWE engineers: creating an issue, pushing from the command line, how a docker container runs, and the json metadata file — and how these feed together to make a component. <strong>Bring your laptop and arrive with your workflow already running in R locally.</strong></p><p><strong>Outcome.</strong> Each person has run the steps on their own machine, with the engineers on hand.</p></div>
+    <div class="tt-body"><h4>(Bolín) Workflow integration - LWE-led</h4><p><strong>Aim.</strong> We learn how to integrate, in real time.</p><p><strong>Activity.</strong> Hands on keyboards, led by the LWE engineers: Trouble shooting, answering queries, e.g., pushing to GitLab from the command line, mastering docker and the json metadata files — and how these feed together to make a component. <strong>Bring your laptop and arrive with your workflow already running in R locally.</strong></p><p><strong>Outcome.</strong> Each person has run the steps on their own machine for their workflow, with the engineers on floating support.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">11:15</div>
     <div class="tt-body"><h4>Break (El Chalet for coffee / outside)</h4></div>
   </div>
-  <div class="tt-row is-fixed">
+  <div class="tt-row is-soft">
     <div class="tt-time">11:45</div>
-    <div class="tt-body"><h4>(Bolín) Component design clinic — LWE-led</h4><p><strong>Aim.</strong> Shared, practical guidelines for building good components.</p><p><strong>Activity.</strong> The LWE engineers lead on component vs whole workflow, what's too big or too small, and best practice for the next versions of your code. Then, in pairs, map your own workflow onto the component model — the engineers floating to help.</p><p><strong>Outcome.</strong> Every blocker written up as an issue with an owner, and agreed design guidelines.</p></div>
+    <div class="tt-body"><h4>(Bolín) Component clinic - LWE-led</h4><p><strong>Aim.</strong> Shared, practical help and guidance for building good components.</p><p><strong>Activity.</strong> We discuss component vs whole workflow, what's too big or too small, and best practice for the next versions of our code. Then, in pairs, review each others component structure — LWE floating to help.</p><p><strong>Outcome.</strong> Agreed design guidelines, queries and clarifications answered.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">13:45</div>
@@ -120,7 +120,7 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row">
     <div class="tt-time">15:30</div>
-    <div class="tt-body"><h4>(Outside or Bolín) Subgroup working session</h4><p><strong>Aim.</strong> A concrete plan each subgroup owns.</p><p><strong>Activity.</strong> Draft a one-page charter: scope, lead, first three milestones with dates, and dependencies on others.</p><p><strong>Outcome.</strong> A signed one-page charter per subgroup.</p></div>
+    <div class="tt-body"><h4>(Outside or Bolín) Subgroup working session</h4><p><strong>Aim.</strong> A concrete plan drafted by each subgroup.</p><p><strong>Activity.</strong> Create one-page charter: scope of work, lead, three milestones (with dates), and dependencies on other subgroups.</p><p><strong>Outcome.</strong> A signed one-page charter per subgroup.</p></div>
   </div>
   <div class="tt-row">
     <div class="tt-time">16:45</div>
@@ -132,24 +132,24 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">17:45</div>
-    <div class="tt-body"><h4>(Laguna de Santa Olalla) Excursion to the lake (on foot, bring good shoes, binos)</h4><p><strong>Aim.</strong> Decompress together and see the biodiversity of the wetland.</p><p><strong>Activity.</strong> A walk together to the lake, at golden hour — telescope and binoculars for anyone who wants them.</p><p><strong>Outcome.</strong> Shared downtime that builds the team (and a species count for the forecast challenge).</p></div>
+    <div class="tt-body"><h4>(Laguna de Santa Olalla) Group excursion to the lake (on foot, bring good shoes, binos)</h4><p><strong>Aim.</strong> Decompress together and see the biodiversity of the wetland.</p><p><strong>Activity.</strong> A walk and birdwatch - bring binoculars.</p><p><strong>Outcome.</strong> Shared downtime.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">20:00</div>
-    <div class="tt-body"><h4>(El Chalet) Dinner, then digitise the day's notes and actions, free / down time, LWE engineers leave</h4></div>
+    <div class="tt-body"><h4>(El Chalet) Dinner </h4>Time to digitise the day's notes and actions, LWE engineers leave, free / down time</h4></div>
   </div>
 </div>
 
 <h2 class="tt-day">Day 3 — Friday 16th October 2026</h2>
-<p class="tt-theme">Agree the paper, commit, then leave</p>
+<p class="tt-theme">Agree the paper, commit, leave</p>
 
 <div class="tt">
   <div class="tt-row is-soft">
-    <div class="tt-time">07:45</div>
-    <div class="tt-body"><h4>(El Chalet / Bolín / Outside) Optional final walk or birdwatch (on foot)</h4><p>From the Bolín observatory, or a last loop on foot.</p></div>
+    <div class="tt-time">08:00</div>
+    <div class="tt-body"><h4>(El Chalet / Bolín / Outside) Optional final walk (on foot)</h4><p>Around the Bolín observatory/Palacio area.</p></div>
   </div>
   <div class="tt-row is-fixed">
-    <div class="tt-time">08:15</div>
+    <div class="tt-time">08:30</div>
     <div class="tt-body"><h4>(El Chalet) Breakfast, pack, rooms vacated by 09:30</h4><p>Secure luggage storage available until the coach arrives.</p></div>
   </div>
   <div class="tt-row">
@@ -170,7 +170,7 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row">
     <div class="tt-time">12:30</div>
-    <div class="tt-body"><h4>(Bolín) Commitments and ways of working</h4><p><strong>Aim.</strong> Leave with clear commitments to the group.</p><p><strong>Activity.</strong> Each person names one action with a date, typed onto the screen (Emma) as they speak. Then meeting frequency, comms channels, and agree the next in-person date.</p><p><strong>Outcome.</strong> A commitments log everyone can see, and an agreed way of working.</p></div>
+    <div class="tt-body"><h4>(Bolín) Commitments and ways of working</h4><p><strong>Aim.</strong> Leave with clear commitments to the group.</p><p><strong>Activity.</strong> Each person names actions with dates, typed up in real time (Emma). Then meeting frequency, comms channels, and agree the next in-person date.</p><p><strong>Outcome.</strong> A commitments log everyone can see, and an agreed way of working.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">13:00</div>
@@ -178,15 +178,15 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row">
     <div class="tt-time">14:00</div>
-    <div class="tt-body"><h4>(El Chalet) Close, final feedback survey, farewells</h4><p><strong>Aim.</strong> Close well and capture what to improve.</p><p><strong>Activity.</strong> Short wrap-up, then the end-of-workshop feedback survey filled in on the spot.</p><p><strong>Outcome.</strong> High-response feedback and a clear sense of next steps.</p></div>
+    <div class="tt-body"><h4>(El Chalet) Close, final feedback survey, farewells</h4><p><strong>Aim.</strong> Close, and capture what to improve.</p><p><strong>Activity.</strong> Short wrap-up, then the end-of-workshop feedback survey filled in on the spot.</p><p><strong>Outcome.</strong>Constructive feedback received and a clear sense of next steps.</p></div>
   </div>
   <div class="tt-row is-fixed">
     <div class="tt-time">14:30</div>
-    <div class="tt-body"><h4>(El Chalet) Coach departs for Sevilla</h4><p>Arriving at EBD-CSIC ~16:30. Do not book onward travel before 19:30.</p></div>
+    <div class="tt-body"><h4>(El Chalet) Coach departs for Sevilla</h4><p>Arriving at EBD-CSIC ~16:30.</p></div>
   </div>
 </div>
 
 <div class="note" markdown="1">
 <span class="note__label">Weather and contingency</span>
-October here can be 30°C and glaring, or wet and windy, or just too many mosquitoes and ticks to escape from. Every outdoor session has an indoor alternative running at the same time, and nothing in the working programme depends on the weather — there is space for both.
+October here can be 30°C and glaring, or wet and windy, or just too many mosquitoes and ticks to escape from. Each morning will start cooler, and end warmer. Every outdoor session has an indoor alternative.
 </div>
