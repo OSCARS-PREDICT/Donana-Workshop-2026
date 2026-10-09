@@ -34,7 +34,7 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row">
     <div class="tt-time">13:00</div>
-    <div class="tt-body"><h4>Arrive at el Chalet (main accommodation), room allocation, drop bags. </p><p><strong>EFI Seminar.</strong> (EEFI's First Working Group: Rethinking success and quality in ecological forecasting @ 13:00 CEST). Maria will try stream this for us.</p></div>
+    <div class="tt-body"><h4>Arrive at el Chalet (main accommodation), room allocation, drop bags.</h4><p><strong>EFI Seminar.</strong> (EEFI's First Working Group: Rethinking success and quality in ecological forecasting @ 13:00 CEST). Maria will try stream this for us.</p></div>
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">13:30</div>
@@ -136,7 +136,7 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row is-soft">
     <div class="tt-time">20:00</div>
-    <div class="tt-body"><h4>(El Chalet) Dinner </h4>Time to digitise the day's notes and actions, LWE engineers leave, free / down time</h4></div>
+    <div class="tt-body"><h4>(El Chalet) Dinner</h4><p>Time to digitise the day's notes and actions, LWE engineers leave, free / down time</p></div>
   </div>
 </div>
 
@@ -178,7 +178,7 @@ Thanks to all of you for bringing this collaboration to life, Emma & Maria
   </div>
   <div class="tt-row">
     <div class="tt-time">14:00</div>
-    <div class="tt-body"><h4>(El Chalet) Close, final feedback survey, farewells</h4><p><strong>Aim.</strong> Close, and capture what to improve.</p><p><strong>Activity.</strong> Short wrap-up, then the end-of-workshop feedback survey filled in on the spot.</p><p><strong>Outcome.</strong>Constructive feedback received and a clear sense of next steps.</p></div>
+    <div class="tt-body"><h4>(El Chalet) Close, final feedback survey, farewells</h4><p><strong>Aim.</strong> Close, and capture what to improve.</p><p><strong>Activity.</strong> Short wrap-up, then the end-of-workshop feedback survey filled in on the spot.</p><p><strong>Outcome.</strong> Constructive feedback received and a clear sense of next steps.</p></div>
   </div>
   <div class="tt-row is-fixed">
     <div class="tt-time">14:30</div>
